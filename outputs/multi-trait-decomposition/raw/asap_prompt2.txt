@@ -1,0 +1,47 @@
+# Essay Scoring Rubric for "Censorship in the Libraries"
+
+This rubric evaluates essays based on four primary dimensions of writing quality: Ideas and Content, Organization, Style, and Voice. Each dimension is scored on a scale from 0 to 10, with a total possible score of 40.
+
+## 1. Ideas and Content (0-10 points)
+This dimension assesses the clarity and relevance of the main idea, the depth of exploration of the topic, and the quality of supporting details.
+
+- **10-9 points:** The essay presents a clear, compelling main idea and thoroughly explores the topic. It includes rich, relevant details and examples that enhance the argument.
+- **8-7 points:** The essay presents a clear main idea and explores the topic adequately. It includes relevant details and examples, though some may lack depth.
+- **6-5 points:** The essay presents a main idea but may not explore the topic fully. It includes some relevant details, but they may be underdeveloped or insufficient.
+- **4-3 points:** The essay attempts to present a main idea but lacks clarity and focus. It includes few relevant details, and the exploration of the topic is minimal.
+- **2-1 points:** The essay fails to present a clear main idea and lacks relevant details. It does not adequately explore the topic.
+- **0 points:** No attempt is made to address the prompt.
+
+## 2. Organization (0-10 points)
+This dimension evaluates the logical flow of ideas, the structure of the essay, and the effectiveness of transitions.
+
+- **10-9 points:** The essay is exceptionally well-organized, with a clear introduction, body, and conclusion. Ideas progress logically, and transitions are smooth and effective.
+- **8-7 points:** The essay is well-organized, with a clear structure. Ideas generally progress logically, and transitions are mostly effective.
+- **6-5 points:** The essay has a recognizable structure but may lack clarity in the progression of ideas. Transitions may be present but not always effective.
+- **4-3 points:** The essay has minimal organization, with unclear progression of ideas. Transitions are weak or absent.
+- **2-1 points:** The essay lacks organization, making it difficult to follow. There is little to no structure or logical flow.
+- **0 points:** No attempt is made to organize the essay.
+
+## 3. Style (0-10 points)
+This dimension assesses the writer's use of language, including vocabulary, sentence structure, and overall fluency.
+
+- **10-9 points:** The essay exhibits exceptional word choice and varied sentence structures. The writing is fluent and engaging, with a strong command of language.
+- **8-7 points:** The essay demonstrates very good word choice and sentence variety. The writing is generally fluent and clear.
+- **6-5 points:** The essay shows adequate word choice and some sentence variety, but may lack fluency or clarity in places.
+- **4-3 points:** The essay has basic word choice and limited sentence variety. The writing may be awkward or unclear at times.
+- **2-1 points:** The essay exhibits minimal word choice and lacks fluency. Sentence structures are often repetitive or simplistic.
+- **0 points:** No attempt is made to use language effectively.
+
+## 4. Voice (0-10 points)
+This dimension evaluates the writer's ability to engage the audience and convey a unique perspective.
+
+- **10-9 points:** The essay demonstrates a strong, engaging voice that is appropriate for the audience and task. The perspective is original and compelling.
+- **8-7 points:** The essay has a clear voice that is generally appropriate for the audience. The perspective is evident and contributes to the argument.
+- **6-5 points:** The essay shows some voice but may lack engagement or originality. The perspective is present but not strongly developed.
+- **4-3 points:** The essay has a weak voice that may not connect with the audience. The perspective is unclear or underdeveloped.
+- **2-1 points:** The essay lacks a distinct voice and fails to engage the audience. There is little to no original perspective.
+- **0 points:** No attempt is made to establish a voice.
+
+### Total Score: ___ / 40
+
+This rubric provides a comprehensive framework for evaluating essays on censorship in libraries, ensuring that all critical aspects of writing quality are considered.

@@ -1,0 +1,19 @@
+### Coherence and Cohesion
+Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.
+
+### Score Ranges and Characteristics
+
+**Score 0-1:**
+- **Characteristics:** Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.
+
+**Score 2-3:**
+- **Characteristics:** Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.
+
+**Score 4-5:**
+- **Characteristics:** Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.
+
+**Score 6-7:**
+- **Characteristics:** Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.
+
+**Score 8-9:**
+- **Characteristics:** Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow.

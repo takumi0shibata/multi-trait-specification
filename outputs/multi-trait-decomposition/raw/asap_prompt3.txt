@@ -1,0 +1,36 @@
+### Writing Quality Scoring Rubric
+
+#### Dimension 1: Understanding of the Text (0-10 points)
+This dimension evaluates the depth of understanding demonstrated in the response regarding the complexities of the text. It assesses how well the writer addresses the prompt and incorporates both expressed and implied information from the excerpt.
+
+- **10-8 points:** The response shows a comprehensive understanding of the text, addressing all aspects of the prompt with insightful analysis. It effectively integrates both explicit and implicit details from the excerpt to support conclusions.
+- **7-5 points:** The response demonstrates a good understanding of the text, addressing most aspects of the prompt. It includes relevant details from the excerpt but may lack depth in analysis or connection to the conclusion.
+- **4-2 points:** The response shows a partial understanding of the text, addressing some aspects of the prompt but lacking clarity or depth. It includes minimal details from the excerpt, which may not fully support the conclusions drawn.
+- **1-0 points:** The response shows little to no understanding of the text. It may misinterpret the prompt or provide irrelevant information, lacking any meaningful connection to the excerpt.
+
+#### Dimension 2: Use of Evidence (0-10 points)
+This dimension assesses how effectively the writer uses evidence from the text to support their claims. It looks at the relevance and integration of quotes or examples from the excerpt.
+
+- **10-8 points:** The response uses multiple, well-chosen examples from the text that are seamlessly integrated into the analysis. The evidence strongly supports the claims made and enhances the overall argument.
+- **7-5 points:** The response includes relevant examples from the text, but they may not be as thoroughly integrated or may lack variety. The evidence supports the claims but could be more compelling.
+- **4-2 points:** The response provides minimal evidence from the text, which may be vague or not directly relevant to the claims made. The connection between evidence and analysis is weak.
+- **1-0 points:** The response lacks any meaningful evidence from the text. It may contain general statements without support or rely on personal opinion without reference to the excerpt.
+
+#### Dimension 3: Clarity and Coherence (0-10 points)
+This dimension evaluates the organization and clarity of the response. It considers how well the ideas are structured and whether the writing is easy to follow.
+
+- **10-8 points:** The response is well-organized, with a clear introduction, body, and conclusion. Ideas flow logically, and transitions between points are smooth, making the argument easy to follow.
+- **7-5 points:** The response is generally organized, but there may be some lapses in clarity or logical flow. Ideas are presented in a coherent manner, but transitions could be improved.
+- **4-2 points:** The response lacks clear organization, making it difficult to follow. Ideas may be presented in a disjointed manner, with unclear transitions between points.
+- **1-0 points:** The response is poorly organized and difficult to understand. Ideas are presented randomly, with little to no logical flow or coherence.
+
+#### Dimension 4: Language and Conventions (0-10 points)
+This dimension assesses the writer's use of language, including grammar, punctuation, and vocabulary. It considers how effectively the writer communicates their ideas through language.
+
+- **10-8 points:** The response demonstrates a strong command of language, with few or no grammatical errors. Vocabulary is varied and appropriate, enhancing the overall quality of the writing.
+- **7-5 points:** The response shows a good command of language, with some grammatical errors that do not significantly impede understanding. Vocabulary is generally appropriate but may lack variety.
+- **4-2 points:** The response contains frequent grammatical errors that may hinder understanding. Vocabulary is limited or inappropriate for the context.
+- **1-0 points:** The response demonstrates a poor command of language, with numerous errors that make it difficult to understand. Vocabulary is inappropriate or overly simplistic.
+
+### Total Score: 0-40 points
+The total score is the sum of the scores from each dimension, providing an overall assessment of the writing quality based on the criteria outlined above.

@@ -1,0 +1,202 @@
+{
+  "prompt1": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "The \"Task Response\" evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-2: Minimal to no response to the task; lacks a clear position and presents few or irrelevant ideas.\nScore 3-4: Inadequate response that may be tangential; presents an unclear position with some main ideas that are difficult to identify or poorly supported.\nScore 5-6: Partial response that addresses the task but lacks clarity in development; presents relevant ideas, though some may be underdeveloped or repetitive.\nScore 7-8: Clear and relevant response that addresses all parts of the task; presents well-developed ideas with appropriate support, though there may be some generalizations.\nScore 9-10: Comprehensive response that fully addresses all aspects of the task; presents a fully developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices that connect sentences and paragraphs, ensuring clarity and flow in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices, leading to confusion and a lack of logical relationships between ideas.\nScore 4-5: Presents information with some organization, but lacks overall progression and may misuse cohesive devices, resulting in repetition and inadequate paragraphing.\nScore 6-7: Arranges information coherently with clear progression; uses a range of cohesive devices effectively, though there may be occasional faults in cohesion or paragraphing.\nScore 8-9: Skillfully organizes ideas and manages cohesion, with logical sequencing and effective paragraphing that enhances clarity and flow, attracting no attention to the cohesive devices used."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words; frequent errors in word formation and spelling may cause strain for the reader, making understanding difficult.\nScore 5-6: Adequate vocabulary for the task, with some attempts at using less common words; occasional inaccuracies and errors in spelling or word formation that do not significantly hinder communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and with some sophistication; includes less common lexical items with occasional inaccuracies, but overall conveys precise meanings effectively.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys nuanced meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy assesses the variety and correctness of sentence structures used in writing or speaking.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely impaired, relying on memorized phrases or showing no grammatical understanding.\nScore 3-4: Attempts to use sentence forms but frequent grammatical and punctuation errors distort meaning; very limited range of structures with rare use of complex sentences.\nScore 5-6: Mix of simple and complex sentences with some grammatical errors; attempts at complexity may lead to inaccuracies, but communication is generally clear.\nScore 7-8: Good control of a variety of complex structures; most sentences are error-free with only occasional minor errors that do not impede understanding.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 39
+  },
+  "prompt2": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "The \"Task Response\" evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-1: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding of the prompt.\nScore 2-3: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.\nScore 4-5: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.\nScore 6-7: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.\nScore 8-9: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.\nScore 4-5: Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.\nScore 6-7: Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.\nScore 8-9: Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words used repetitively; frequent errors in word formation and spelling that may cause strain for the reader.\nScore 5-6: Limited to adequate vocabulary that meets basic task requirements; some attempts at using less common words, but with noticeable inaccuracies and occasional errors that do not impede overall communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style and collocation, though occasional inaccuracies may occur.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys precise meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.\nScore 3-4: Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.\nScore 5-6: Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.\nScore 7-8: Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 38
+  },
+  "prompt3": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "Task Response evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-1: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding or engagement with the prompt.\nScore 2-3: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.\nScore 4-5: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.\nScore 6-7: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.\nScore 8-9: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.\nScore 4-5: Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.\nScore 6-7: Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.\nScore 8-9: Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words used repetitively; frequent errors in word formation and spelling that may cause strain for the reader.\nScore 5-6: Limited to adequate vocabulary that meets basic task requirements; some attempts at using less common words, but with noticeable inaccuracies and occasional errors that do not impede overall communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style and collocation, though occasional inaccuracies may occur.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys precise meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.\nScore 3-4: Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.\nScore 5-6: Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.\nScore 7-8: Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 38
+  },
+  "prompt4": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "Task Response evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-1: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding or engagement with the prompt.\nScore 2-3: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.\nScore 4-5: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.\nScore 6-7: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.\nScore 8-9: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.\nScore 4-5: Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.\nScore 6-7: Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.\nScore 8-9: Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words used repetitively; frequent errors in word formation and spelling that may cause strain for the reader.\nScore 5-6: Limited to adequate vocabulary that meets basic task requirements; some attempts at using less common words, but with noticeable inaccuracies and occasional errors that do not impede overall communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style and collocation, though occasional inaccuracies may occur.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys precise meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.\nScore 3-4: Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.\nScore 5-6: Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.\nScore 7-8: Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 38
+  },
+  "prompt5": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "Task Response evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-1: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding or engagement with the prompt.\nScore 2-3: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.\nScore 4-5: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.\nScore 6-7: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.\nScore 8-9: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.\nScore 4-5: Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.\nScore 6-7: Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.\nScore 8-9: Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words used repetitively; frequent errors in word formation and spelling that may cause strain for the reader.\nScore 5-6: Limited to adequate vocabulary that meets basic task requirements; some attempts at using less common words, but with noticeable inaccuracies and occasional errors that do not impede overall communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style and collocation, though occasional inaccuracies may occur.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys precise meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.\nScore 3-4: Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.\nScore 5-6: Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.\nScore 7-8: Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 38
+  },
+  "prompt6": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "Task Response evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-1: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding or engagement with the prompt.\nScore 2-3: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.\nScore 4-5: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.\nScore 6-7: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.\nScore 8-9: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.\nScore 4-5: Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.\nScore 6-7: Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.\nScore 8-9: Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words used repetitively; frequent errors in word formation and spelling that may cause strain for the reader.\nScore 5-6: Limited to adequate vocabulary that meets basic task requirements; some attempts at using less common words, but with noticeable inaccuracies and occasional errors that do not impede overall communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style and collocation, though occasional inaccuracies may occur.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys precise meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.\nScore 3-4: Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.\nScore 5-6: Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.\nScore 7-8: Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 38
+  },
+  "prompt7": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "Task Response evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-1: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding or engagement with the prompt.\nScore 2-3: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.\nScore 4-5: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.\nScore 6-7: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.\nScore 8-9: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.\nScore 4-5: Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.\nScore 6-7: Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.\nScore 8-9: Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words used repetitively; frequent errors in word formation and spelling that may cause strain for the reader.\nScore 5-6: Limited to adequate vocabulary that meets basic task requirements; some attempts at using less common words, but with noticeable inaccuracies and occasional errors that do not impede overall communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style and collocation, though occasional inaccuracies may occur.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys precise meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.\nScore 3-4: Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.\nScore 5-6: Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.\nScore 7-8: Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 38
+  },
+  "prompt8": {
+    "dimensions": [
+      {
+        "name": "Task Response",
+        "description": "Task Response evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.",
+        "scoring_criteria": "Score 0-1: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding or engagement with the prompt.\nScore 2-3: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.\nScore 4-5: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.\nScore 6-7: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.\nScore 8-9: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout."
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "description": "Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.",
+        "scoring_criteria": "Score 0-1: Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.\nScore 2-3: Ideas are poorly organized, with minimal use of cohesive devices; relationships between ideas are unclear, leading to confusion.\nScore 4-5: Presents information with some organization but lacks overall progression; may misuse cohesive devices and have inadequate paragraphing, resulting in repetition or confusion.\nScore 6-7: Arranges information coherently with a clear progression; uses a range of cohesive devices effectively, though there may be minor issues with referencing or paragraphing.\nScore 8-9: Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively to enhance clarity and flow."
+      },
+      {
+        "name": "Lexical Resource",
+        "description": "Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.",
+        "scoring_criteria": "Score 0-2: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.\nScore 3-4: Very limited range of vocabulary with basic words used repetitively; frequent errors in word formation and spelling that may cause strain for the reader.\nScore 5-6: Limited to adequate vocabulary that meets basic task requirements; some attempts at using less common words, but with noticeable inaccuracies and occasional errors that do not impede overall communication.\nScore 7-8: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style and collocation, though occasional inaccuracies may occur.\nScore 9-10: Extensive and sophisticated vocabulary with natural control; conveys precise meanings with rare minor errors, demonstrating a high level of lexical proficiency."
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "description": "Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.",
+        "scoring_criteria": "Score 0-2: Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.\nScore 3-4: Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.\nScore 5-6: Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.\nScore 7-8: Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.\nScore 9-10: Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency."
+      }
+    ],
+    "total_score": 38
+  }
+} 
