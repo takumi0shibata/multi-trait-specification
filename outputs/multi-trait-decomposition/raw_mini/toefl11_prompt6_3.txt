@@ -1,0 +1,14 @@
+### Lexical Resource Description
+Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.
+
+### Score Intervals and Characteristics
+
+- **Score 0-2**: Extremely limited vocabulary with little to no control over word formation and spelling, severely hindering communication and understanding.
+
+- **Score 3-4**: Very limited range of vocabulary, with basic and repetitive word choices; frequent errors in spelling and word formation may cause strain for the reader.
+
+- **Score 5-6**: Adequate vocabulary for the task, with some attempts at using less common words; occasional inaccuracies and errors in spelling or word formation that do not significantly impede communication.
+
+- **Score 7-8**: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style, though occasional inaccuracies may occur.
+
+- **Score 9-10**: Extensive and sophisticated vocabulary with natural control; conveys precise meanings effectively, with only rare minor errors that do not detract from overall communication.

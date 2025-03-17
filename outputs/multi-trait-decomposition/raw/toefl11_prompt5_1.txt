@@ -1,5 +1,5 @@
 ### Task Response Description
-The 'Task Response' evaluates how well a response addresses the prompt, presents a clear position, and develops ideas with relevant support.
+The "Task Response" evaluates how well a response addresses the prompt, the clarity and development of the position taken, and the relevance and support of the ideas presented.
 
 ### Score Intervals and Characteristics
 
@@ -7,8 +7,8 @@ The 'Task Response' evaluates how well a response addresses the prompt, presents
 
 - **Score 2-3**: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.
 
-- **Score 4-5**: The response partially addresses the task but may be tangential or unclear; it expresses a position but lacks sufficient development and may include irrelevant details.
+- **Score 4-5**: The response partially addresses the task but may be tangential or unclear; it expresses a position that is not well supported, with limited main ideas that may include irrelevant details.
 
-- **Score 6-7**: The response addresses all parts of the task with a clear position, presenting relevant main ideas, though some ideas may be inadequately developed or overly generalized.
+- **Score 6-7**: The response addresses all parts of the task with a clear position, presenting relevant main ideas that are generally supported, though some ideas may be inadequately developed or overly generalized.
 
 - **Score 8-9**: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout.

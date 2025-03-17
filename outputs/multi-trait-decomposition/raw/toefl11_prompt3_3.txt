@@ -1,14 +1,19 @@
 ### Lexical Resource Description
-Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control over word choice, spelling, and word formation.
+Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.
 
-### Score Intervals and Characteristics
+### Score Range Intervals
 
-- **Score 0-2**: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.
+**Score: 0-2**
+- **Characteristics:** Extremely limited vocabulary with no control over word formation or spelling; communication is nearly impossible.
 
-- **Score 3-4**: Very basic vocabulary used repetitively or inappropriately; limited control over word formation and spelling, causing strain for the reader.
+**Score: 3-4**
+- **Characteristics:** Very limited range of vocabulary with basic expressions; frequent errors in word formation and spelling that may distort the message.
 
-- **Score 5-6**: Adequate vocabulary that meets the task requirements; attempts to use less common words may be present, but inaccuracies and errors in spelling or word formation are noticeable yet do not impede communication.
+**Score: 5-6**
+- **Characteristics:** Adequate vocabulary for the task with some attempts at less common words; occasional inaccuracies and errors that do not significantly impede communication.
 
-- **Score 7-8**: Sufficient to wide range of vocabulary used flexibly and fluently; includes less common lexical items with some awareness of style, though occasional inaccuracies may occur.
+**Score: 7-8**
+- **Characteristics:** Sufficient to wide range of vocabulary used flexibly and fluently; skillful use of uncommon lexical items with minor inaccuracies in word choice or spelling.
 
-- **Score 9-10**: Extensive and sophisticated vocabulary with natural control; conveys precise meanings effectively, with only rare minor errors that do not detract from overall communication.
+**Score: 9-10**
+- **Characteristics:** Extensive and sophisticated vocabulary with natural control; rare minor errors occur only as slips, allowing for precise and nuanced expression.

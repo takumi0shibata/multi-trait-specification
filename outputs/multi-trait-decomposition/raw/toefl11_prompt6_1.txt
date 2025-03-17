@@ -1,14 +1,18 @@
-### Task Response Description
-The 'Task Response' evaluates how effectively a response addresses the prompt, presents a clear position, and develops ideas with relevant support.
+**Task Response Description:** Task Response evaluates how well a response addresses the prompt, presents a clear position, and develops ideas with relevant support.
 
-### Score Intervals and Characteristics
+**Score Intervals and Characteristics:**
 
-- **Score 0-1**: The response is completely unrelated to the task or does not attempt the task in any way, showing no understanding or engagement with the prompt.
+1. **Score 0-2: Minimal Response**
+   - Responses in this range barely address the task, lack a clear position, and present few or no developed ideas. They may be irrelevant or completely unrelated to the prompt.
 
-- **Score 2-3**: The response barely addresses the task, lacks a clear position, and presents few ideas that are largely undeveloped or irrelevant.
+2. **Score 3-4: Limited Engagement**
+   - These responses show minimal engagement with the task, presenting unclear positions and poorly developed ideas. Main ideas may be difficult to identify and often lack relevance or support.
 
-- **Score 4-5**: The response partially addresses the task with some main ideas, but development is limited and may include irrelevant details; the position may be unclear or repetitive.
+3. **Score 5-6: Partial Coverage**
+   - Responses here partially address the task, expressing a position that may not be clearly articulated. Ideas are present but may be underdeveloped or repetitive, with some relevant points included.
 
-- **Score 6-7**: The response addresses all parts of the task with a clear position, presenting relevant main ideas that are extended and supported, though some ideas may lack focus or clarity.
+4. **Score 7-8: Clear and Relevant**
+   - This range indicates a clear position that addresses all parts of the task. Ideas are well-developed and supported, though there may be some generalizations or minor lapses in focus.
 
-- **Score 8-9**: The response fully addresses all parts of the task, presenting a well-developed position with relevant, extended, and well-supported ideas throughout.
+5. **Score 9-10: Comprehensive and Insightful**
+   - Responses in this interval fully address all aspects of the task, presenting a well-developed and insightful position. Ideas are relevant, fully extended, and supported with strong evidence, demonstrating a thorough understanding of the prompt.

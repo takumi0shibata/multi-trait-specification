@@ -1,0 +1,57 @@
+### Writing Quality Scoring Rubric
+
+This rubric evaluates the quality of responses based on four primary dimensions: Content, Organization, Language Use, and Mechanics. Each dimension is scored on a scale from 0 to 10, with a total possible score of 40.
+
+---
+
+#### Dimension 1: Content (0-10 points)
+**Description:** This dimension assesses the clarity, completeness, and accuracy of the response in addressing the prompt. It evaluates how well the response describes the obstacles faced by the builders of the Empire State Building in allowing dirigibles to dock there, using specific information from the excerpt.
+
+- **10-9 points:** The response provides a thorough and insightful description of the obstacles, incorporating multiple relevant details from the excerpt. It demonstrates a deep understanding of the material.
+- **8-7 points:** The response clearly describes the obstacles with relevant details from the excerpt, though it may lack some depth or specificity.
+- **6-5 points:** The response identifies some obstacles but lacks clarity or completeness. It includes limited relevant details from the excerpt.
+- **4-3 points:** The response mentions a few obstacles but is vague or inaccurate. It includes minimal relevant information from the excerpt.
+- **2-1 points:** The response is unclear or incorrect, providing little to no relevant information from the excerpt.
+- **0 points:** The response does not address the prompt or is entirely irrelevant.
+
+---
+
+#### Dimension 2: Organization (0-10 points)
+**Description:** This dimension evaluates the logical flow and structure of the response. It considers how well the ideas are organized and whether the response is easy to follow.
+
+- **10-9 points:** The response is exceptionally well-organized, with a clear introduction, body, and conclusion. Ideas flow logically and coherently.
+- **8-7 points:** The response is organized and easy to follow, with a clear structure, though it may have minor lapses in flow.
+- **6-5 points:** The response has some organization but may be difficult to follow at times. Ideas may be presented in a somewhat disjointed manner.
+- **4-3 points:** The response lacks clear organization, making it hard to follow. Ideas may be presented randomly without logical connections.
+- **2-1 points:** The response is poorly organized, with little to no structure, making it very difficult to understand.
+- **0 points:** The response is completely disorganized or irrelevant.
+
+---
+
+#### Dimension 3: Language Use (0-10 points)
+**Description:** This dimension assesses the appropriateness and effectiveness of the language used in the response. It considers vocabulary, tone, and clarity of expression.
+
+- **10-9 points:** The response uses precise and varied vocabulary effectively. The tone is appropriate, and the expression is clear and engaging.
+- **8-7 points:** The response uses appropriate vocabulary and tone, with minor issues in clarity or expression.
+- **6-5 points:** The response uses basic vocabulary and may have some awkward phrasing or unclear expressions.
+- **4-3 points:** The response uses limited vocabulary and has several unclear or awkward expressions, affecting overall clarity.
+- **2-1 points:** The response uses very basic language with frequent errors that hinder understanding.
+- **0 points:** The response uses inappropriate or irrelevant language.
+
+---
+
+#### Dimension 4: Mechanics (0-10 points)
+**Description:** This dimension evaluates the correctness of grammar, punctuation, spelling, and overall writing conventions.
+
+- **10-9 points:** The response is free of grammatical, punctuation, and spelling errors. Writing conventions are consistently followed.
+- **8-7 points:** The response has few minor errors in grammar, punctuation, or spelling that do not impede understanding.
+- **6-5 points:** The response contains several errors in grammar, punctuation, or spelling that may distract the reader but do not significantly hinder comprehension.
+- **4-3 points:** The response has frequent errors in grammar, punctuation, or spelling that make it difficult to read.
+- **2-1 points:** The response is riddled with errors that severely hinder understanding.
+- **0 points:** The response has no regard for writing conventions.
+
+---
+
+### Total Score: ___ / 40
+
+This rubric provides a comprehensive framework for evaluating responses based on content, organization, language use, and mechanics, ensuring a fair and thorough assessment of writing quality.

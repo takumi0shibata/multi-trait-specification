@@ -1,20 +1,20 @@
 ### Grammatical Range and Accuracy
 
-Grammatical Range and Accuracy assesses the variety and correctness of sentence structures used in writing or speaking.
+Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.
 
 ### Score Intervals
 
 - **Score 0-2**: 
-  - Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or completely lacking structure.
+  - Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases.
 
 - **Score 3-4**: 
-  - Attempts to use sentence forms but frequent grammatical and punctuation errors distort meaning; very limited range of structures with rare use of complex sentences.
+  - Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.
 
 - **Score 5-6**: 
-  - Mixes simple and complex sentence forms; some grammatical and punctuation errors are present but do not significantly impede communication; limited range of structures with occasional attempts at complexity.
+  - A mix of simple and complex sentences is used; some grammatical and punctuation errors occur, but they rarely impede understanding; limited range of structures is evident.
 
 - **Score 7-8**: 
-  - Utilizes a variety of complex structures with good control; frequent error-free sentences, though minor errors may occur; demonstrates a wide range of grammatical forms.
+  - A variety of complex structures is employed with good control; most sentences are error-free, with only occasional minor errors or inaccuracies.
 
 - **Score 9-10**: 
-  - Exhibits full flexibility and accuracy in a wide range of structures; rare minor errors occur only as slips, showcasing exceptional grammatical proficiency.
+  - Demonstrates a wide range of grammatical structures with full flexibility and accuracy; errors are rare and typically minor, indicating a high level of proficiency.

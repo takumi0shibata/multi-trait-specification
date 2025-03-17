@@ -1,19 +1,22 @@
 ### Coherence and Cohesion
+
 Coherence and cohesion refer to the logical organization of ideas and the effective use of linguistic devices that connect sentences and paragraphs, ensuring clarity and flow in writing.
 
 ### Scoring Intervals
 
-**Score Range: 0-2**
-- **Characteristics:** Very little to no control over organizational features; ideas are poorly connected or completely disjointed, making it difficult to understand the message.
+**Score Range: 0-10**
 
-**Score Range: 3-4**
-- **Characteristics:** Ideas are not logically organized, with minimal use of cohesive devices; any connections made may be inaccurate or repetitive, leading to confusion in understanding.
+1. **Score: 0-1**
+   - Fails to communicate any message or has very little control over organizational features, resulting in a lack of coherence and cohesion.
 
-**Score Range: 5-6**
-- **Characteristics:** Some organization of information is present, but overall progression may be lacking; cohesive devices are used, though they may be mechanical or not always effective, and paragraphing may be inconsistent.
+2. **Score: 2-3**
+   - Displays minimal organization of ideas, with a very limited range of cohesive devices; relationships between ideas are unclear or illogical.
 
-**Score Range: 7-8**
-- **Characteristics:** Information and ideas are logically organized with clear progression; a range of cohesive devices is used appropriately, and paragraphing is managed well, contributing to the clarity of the writing.
+3. **Score: 4-5**
+   - Presents information with some organization but lacks overall progression; may misuse cohesive devices and struggle with paragraphing, leading to confusion.
 
-**Score Range: 9-10**
-- **Characteristics:** Exceptional organization and flow of ideas; cohesion is seamless and unobtrusive, with skillful paragraphing that enhances the overall clarity and effectiveness of the writing.
+4. **Score: 6-7**
+   - Arranges information coherently with a clear progression; uses cohesive devices effectively, though there may be occasional faults; paragraphs are generally clear but may lack logical structure at times.
+
+5. **Score: 8-10**
+   - Skillfully organizes information and ideas with logical sequencing; manages cohesion seamlessly, with effective paragraphing that enhances clarity and flow, attracting no attention to itself.

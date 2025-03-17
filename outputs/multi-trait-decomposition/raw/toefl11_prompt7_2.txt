@@ -1,19 +1,22 @@
 ### Coherence and Cohesion
-Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.
 
-### Score Intervals and Characteristics
+Coherence and cohesion refer to the logical organization of ideas and the effective use of linguistic devices that connect sentences and paragraphs, ensuring clarity and flow in writing.
 
-**Score 0-1:**
-- **Characteristics:** Fails to communicate any message or has very little control over organizational features, resulting in a lack of clarity and coherence.
+### Scoring Intervals
 
-**Score 2-3:**
-- **Characteristics:** Ideas are poorly organized, with minimal use of cohesive devices that do not indicate logical relationships between ideas, leading to confusion.
+**Score Range: 0-10**
 
-**Score 4-5:**
-- **Characteristics:** Presents information with some organization but lacks overall progression; may use basic cohesive devices inaccurately or repetitively, and paragraphing may be inadequate.
+1. **Score: 0-1**
+   - The writing fails to communicate any message or lacks any organizational features, making it incomprehensible.
 
-**Score 6-7:**
-- **Characteristics:** Arranges information coherently with clear progression; uses a range of cohesive devices effectively, though there may be occasional faults in cohesion or referencing; paragraphs are generally clear.
+2. **Score: 2-3**
+   - The text shows very little control over organizational features, with a lack of logical structure and minimal use of cohesive devices, resulting in unclear communication.
 
-**Score 8-9:**
-- **Characteristics:** Skillfully organizes information and ideas logically, with seamless cohesion that attracts no attention; manages paragraphing effectively, ensuring clarity and flow throughout the writing.
+3. **Score: 4-5**
+   - Information is presented with some organization, but there is a noticeable lack of overall progression. Cohesive devices may be used inaccurately or repetitively, and paragraphing may be inadequate.
+
+4. **Score: 6-7**
+   - Ideas are arranged coherently with a clear overall progression. Cohesive devices are used effectively, though there may be occasional faults. Paragraphing is present but may not always be logical.
+
+5. **Score: 8-9**
+   - The writing is logically organized with a clear progression of ideas. Cohesion is managed skillfully, attracting no attention, and paragraphing is used appropriately to enhance clarity and flow.

@@ -1,19 +1,14 @@
 ### Lexical Resource Description
 Lexical Resource refers to the range and accuracy of vocabulary used in communication, assessing the ability to convey precise meanings and the control of lexical features.
 
-### Score Range Intervals
+### Score Intervals and Characteristics
 
-- **Score 0-2: Extremely Limited Vocabulary**
-  - Characterized by an extremely restricted range of vocabulary with little to no control over word formation and spelling, resulting in severe communication difficulties.
+- **Score 0-2**: Extremely limited vocabulary with little to no control over word formation and spelling; communication is severely impaired or impossible.
 
-- **Score 3-4: Very Basic Vocabulary**
-  - Utilizes only a very limited range of words and expressions, with basic vocabulary that may be repetitive or inappropriate, leading to noticeable errors that strain comprehension.
+- **Score 3-4**: Very limited range of vocabulary with basic words; frequent errors in word formation and spelling may cause strain for the reader, making comprehension difficult.
 
-- **Score 5-6: Adequate Vocabulary**
-  - Demonstrates an adequate range of vocabulary for the task, with attempts to use less common words, though inaccuracies may occur; errors in spelling and word formation are present but do not significantly impede communication.
+- **Score 5-6**: Adequate vocabulary for the task, with some attempts at using less common words; occasional inaccuracies and errors in spelling or word formation that do not significantly hinder communication.
 
-- **Score 7-8: Sufficient to Wide Range of Vocabulary**
-  - Employs a sufficient to wide range of vocabulary with some flexibility and precision, including less common lexical items; occasional inaccuracies in word choice and collocation may occur, along with rare spelling errors.
+- **Score 7-8**: Sufficient to wide range of vocabulary used flexibly and with some sophistication; includes less common lexical items with occasional inaccuracies, but overall conveys precise meanings effectively.
 
-- **Score 9-10: Sophisticated Vocabulary Use**
-  - Exhibits a wide range of vocabulary with natural and sophisticated control, conveying precise meanings effectively; rare minor errors may occur but do not detract from overall communication quality.
+- **Score 9-10**: Extensive and sophisticated vocabulary with natural control; conveys nuanced meanings with rare minor errors, demonstrating a high level of lexical proficiency.

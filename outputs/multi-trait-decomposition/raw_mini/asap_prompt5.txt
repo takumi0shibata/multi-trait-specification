@@ -1,0 +1,57 @@
+### Writing Quality Scoring Rubric
+
+This rubric evaluates the quality of responses based on four primary dimensions: **Content and Comprehension**, **Organization and Structure**, **Language and Style**, and **Mechanics and Conventions**. Each dimension is scored on a scale from 0 to 10, with a total possible score of 40.
+
+---
+
+#### 1. Content and Comprehension (0-10 points)
+**Description:** This dimension assesses the clarity, completeness, and accuracy of the response in describing the mood created by the author. It evaluates how well the response incorporates relevant and specific information from the memoir to support its claims.
+
+- **10-9 points:** The response provides a clear, complete, and accurate description of the mood, using multiple relevant and specific examples from the memoir.
+- **8-7 points:** The response is mostly clear and accurate, with relevant examples, but may lack depth or specificity in some areas.
+- **6-5 points:** The response offers a partial description of the mood, including some relevant information but lacking clarity or depth; may contain minor inaccuracies.
+- **4-3 points:** The response is unclear or incomplete, with limited relevant information; may include misinterpretations or vague references.
+- **2-1 points:** The response provides minimal insight into the mood, with little to no relevant information; may be largely irrelevant or incorrect.
+- **0 points:** The response is entirely incorrect or irrelevant, demonstrating no comprehension of the task.
+
+---
+
+#### 2. Organization and Structure (0-10 points)
+**Description:** This dimension evaluates the logical flow and coherence of the response. It considers how well the ideas are organized and whether the response follows a clear structure.
+
+- **10-9 points:** The response is well-organized, with a clear introduction, body, and conclusion; ideas flow logically and cohesively.
+- **8-7 points:** The response is mostly organized, with a clear structure, but may have minor lapses in coherence or flow.
+- **6-5 points:** The response has some organization but may be disjointed or lack clear transitions between ideas.
+- **4-3 points:** The response is poorly organized, with little logical flow; ideas may be presented in a confusing manner.
+- **2-1 points:** The response lacks organization, making it difficult to follow; ideas are presented randomly or incoherently.
+- **0 points:** The response is completely disorganized and lacks any coherent structure.
+
+---
+
+#### 3. Language and Style (0-10 points)
+**Description:** This dimension assesses the use of language, including vocabulary, tone, and style. It evaluates how effectively the author conveys their ideas and engages the reader.
+
+- **10-9 points:** The response uses varied and sophisticated vocabulary; the tone is appropriate and engaging, enhancing the overall quality of the writing.
+- **8-7 points:** The response uses clear and effective language, with some variety in vocabulary; the tone is mostly appropriate.
+- **6-5 points:** The response uses basic language with limited variety; the tone may be inconsistent or less engaging.
+- **4-3 points:** The response uses simplistic or repetitive language; the tone may be inappropriate or disengaging.
+- **2-1 points:** The response uses very poor language, with numerous errors; the tone is confusing or completely inappropriate.
+- **0 points:** The response is devoid of meaningful language or style, making it unreadable.
+
+---
+
+#### 4. Mechanics and Conventions (0-10 points)
+**Description:** This dimension evaluates the correctness of grammar, punctuation, spelling, and overall adherence to writing conventions.
+
+- **10-9 points:** The response is free of errors in grammar, punctuation, and spelling; it adheres to writing conventions flawlessly.
+- **8-7 points:** The response contains few minor errors that do not impede understanding; it mostly adheres to writing conventions.
+- **6-5 points:** The response has several errors in grammar, punctuation, or spelling that may distract the reader but do not significantly hinder comprehension.
+- **4-3 points:** The response contains frequent errors that may confuse the reader; adherence to writing conventions is poor.
+- **2-1 points:** The response is riddled with errors, making it difficult to read; it shows little to no adherence to writing conventions.
+- **0 points:** The response is completely ungrammatical or nonsensical, demonstrating no understanding of writing conventions.
+
+---
+
+### Total Score: ___ / 40
+
+This rubric provides a comprehensive evaluation of the response, ensuring that all aspects of writing quality are considered in the scoring process.

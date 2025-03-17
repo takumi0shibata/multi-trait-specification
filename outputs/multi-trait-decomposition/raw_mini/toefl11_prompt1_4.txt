@@ -1,0 +1,20 @@
+### Grammatical Range and Accuracy
+
+Grammatical Range and Accuracy assesses the variety and correctness of sentence structures used in writing or speaking.
+
+### Score Intervals
+
+- **Score 0-2**: 
+  - Limited or no ability to use sentence forms; communication is severely impaired, relying on memorized phrases or showing no grammatical understanding.
+
+- **Score 3-4**: 
+  - Attempts to use sentence forms but frequent grammatical and punctuation errors distort meaning; very limited range of structures with rare use of complex sentences.
+
+- **Score 5-6**: 
+  - Mix of simple and complex sentences with some grammatical errors; attempts at complexity may lead to inaccuracies, but communication is generally clear.
+
+- **Score 7-8**: 
+  - Good control of a variety of complex structures; most sentences are error-free with only occasional minor errors that do not impede understanding.
+
+- **Score 9-10**: 
+  - Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency.

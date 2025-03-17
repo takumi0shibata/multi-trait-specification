@@ -5,16 +5,16 @@ Grammatical Range and Accuracy refers to the variety and correctness of grammati
 ### Score Intervals
 
 - **Score 0-2**: 
-  - Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or completely lacking structure.
+  - Characterized by an inability to use sentence forms effectively, relying on memorized phrases or producing minimal coherent language. Errors are pervasive and severely hinder communication.
 
 - **Score 3-4**: 
-  - Attempts to use sentence forms but frequent grammatical and punctuation errors distort meaning; very limited range of structures with rare use of complex sentences.
+  - Demonstrates attempts at sentence construction, but frequent grammatical and punctuation errors distort meaning. There is a very limited range of structures, with rare use of complex forms.
 
 - **Score 5-6**: 
-  - Mix of simple and complex sentences with some grammatical errors; while errors may occur, they rarely impede overall communication; a moderate range of structures is used.
+  - Shows a mix of simple and complex sentences, with some grammatical errors that may occasionally impede understanding. There is a limited range of structures, and attempts at complexity may lead to inaccuracies.
 
 - **Score 7-8**: 
-  - Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies; demonstrates a strong command of grammar.
+  - Utilizes a variety of complex structures with good control over grammar and punctuation. Most sentences are error-free, with only occasional minor errors or inappropriacies present.
 
 - **Score 9-10**: 
-  - Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, showcasing a high level of grammatical proficiency.
+  - Exhibits a wide range of grammatical structures with full flexibility and accuracy. Errors are rare and typically minor, demonstrating a high level of proficiency in both complexity and correctness.

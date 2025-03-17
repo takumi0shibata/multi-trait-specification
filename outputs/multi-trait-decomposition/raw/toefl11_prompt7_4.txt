@@ -1,20 +1,20 @@
 ### Grammatical Range and Accuracy
 
-Grammatical Range and Accuracy refers to the variety and correctness of sentence structures used in writing or speaking, reflecting the speaker's or writer's command of grammar.
+Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, assessing how well a person can communicate their ideas without errors.
 
-### Score Intervals and Characteristics
+### Score Intervals
 
 - **Score 0-2**: 
-  - Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases.
+  - Limited or no ability to use sentence forms; communication is severely hindered, relying on memorized phrases or completely lacking structure.
 
 - **Score 3-4**: 
-  - Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.
+  - Attempts to use sentence forms but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.
 
 - **Score 5-6**: 
-  - Mix of simple and complex sentences; some grammatical and punctuation errors present, but they rarely impede understanding; limited range of structures.
+  - Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity are evident but not always accurate.
 
 - **Score 7-8**: 
-  - Good control of a variety of complex structures; frequent error-free sentences; occasional minor errors that do not detract from overall clarity.
+  - Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies; demonstrates a solid grasp of grammar and punctuation.
 
 - **Score 9-10**: 
-  - Exceptional use of a wide range of structures with full flexibility and accuracy; rare minor errors occur only as slips, demonstrating a high level of grammatical proficiency.
+  - Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, showcasing a high level of grammatical proficiency.

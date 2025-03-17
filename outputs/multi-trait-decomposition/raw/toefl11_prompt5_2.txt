@@ -1,19 +1,15 @@
 ### Coherence and Cohesion
-Coherence and cohesion refer to the logical organization of ideas and the effective use of cohesive devices to create a clear and connected flow of information in writing.
 
-### Scoring Intervals
+Coherence and cohesion refer to the clarity and logical flow of ideas in a text, ensuring that information is presented in an organized manner that is easy for the reader to follow.
 
-**Score Range: 0-2**
-- **Characteristics:** Very little to no control over organizational features; ideas are poorly structured or completely incoherent, failing to communicate any message.
+### Score Intervals and Characteristics
 
-**Score Range: 3-4**
-- **Characteristics:** Ideas are not logically organized, with minimal use of cohesive devices; any organization present is confusing, leading to a lack of clear progression.
+- **Score 0-1**: The text fails to communicate any message or has no discernible organization, making it incomprehensible to the reader.
 
-**Score Range: 5-6**
-- **Characteristics:** Some organization of information is evident, but overall progression may be lacking; cohesive devices are used, though they may be inaccurate or mechanical, and paragraphing may not always be logical.
+- **Score 2-3**: The text exhibits very little control over organizational features, with a lack of logical structure and minimal use of cohesive devices, resulting in confusion.
 
-**Score Range: 7-8**
-- **Characteristics:** Information and ideas are logically organized with clear progression; a range of cohesive devices is used appropriately, and paragraphing is sufficient and appropriate.
+- **Score 4-5**: The text presents information but lacks coherent arrangement and clear progression; cohesive devices may be used inaccurately or repetitively, and paragraphing may be inadequate.
 
-**Score Range: 9-10**
-- **Characteristics:** Exceptional organization and flow of ideas, with cohesion that is seamless and unobtrusive; paragraphing is skillfully managed, enhancing the clarity and effectiveness of the writing.
+- **Score 6-7**: The text is arranged coherently with a clear overall progression; cohesive devices are used effectively, though there may be occasional faults in cohesion or referencing, and paragraphing is generally logical.
+
+- **Score 8-9**: The text is skillfully organized with logical sequencing of ideas; cohesion is managed seamlessly, and paragraphing is used appropriately to enhance clarity and flow.

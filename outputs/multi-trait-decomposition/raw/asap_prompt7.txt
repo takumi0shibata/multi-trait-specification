@@ -1,43 +1,43 @@
-# Essay Scoring Rubric
+**Essay Scoring Rubric**
 
-This rubric evaluates writing quality across four primary dimensions: Ideas, Organization, Style, and Conventions. Each dimension is scored on a scale from 0 to 10, with a total possible score of 40. 
+**Dimension 1: Ideas (Score doubled)**  
+This dimension evaluates the focus and development of ideas in the story. A high score indicates that the story is clearly focused on the topic of patience and is thoroughly developed with specific, relevant details.
 
-## 1. Ideas (0-10 points)
-This dimension assesses the clarity and development of the story's ideas. A strong response will focus on the topic of patience and provide specific, relevant details that thoroughly develop the narrative.
+- **Score 10:** The story is exceptionally focused on the topic of patience and is thoroughly developed with specific, relevant details that enhance the narrative.
+- **Score 8:** The story is clearly focused on the topic of patience and is well-developed with relevant details.
+- **Score 6:** The story is somewhat focused on the topic of patience and is developed with a mix of specific and general details.
+- **Score 4:** The story is minimally focused on the topic of patience and is developed with limited and/or general details.
+- **Score 2:** The story lacks focus on the topic of patience and is underdeveloped.
+- **Score 0:** The story is not focused on the topic of patience and lacks development.
 
-- **Score 10:** The story is exceptionally focused on the topic of patience, with ideas that are thoroughly developed through rich, specific details and examples.
-- **Score 8:** The story is focused on the topic of patience, with ideas that are well-developed using a mix of specific and general details.
-- **Score 6:** The story has some focus on the topic of patience, but ideas are minimally developed and rely on general details.
-- **Score 4:** The story is poorly focused on the topic of patience, with limited development of ideas and general details.
-- **Score 2:** Ideas are not focused on the topic of patience and are largely undeveloped.
+**Dimension 2: Organization**  
+This dimension assesses the clarity and logical sequencing of the organization and connections between ideas and/or events. A high score indicates a well-organized story with clear and logical progression.
 
-## 2. Organization (0-10 points)
-This dimension evaluates the logical sequencing and clarity of connections between ideas and events in the story. A well-organized narrative will guide the reader through the events in a coherent manner.
+- **Score 10:** The organization and connections between ideas and/or events are exceptionally clear and logically sequenced, enhancing the narrative flow.
+- **Score 8:** The organization and connections between ideas and/or events are clear and logically sequenced.
+- **Score 6:** The organization and connections between ideas and/or events are logically sequenced.
+- **Score 4:** The organization and connections between ideas and/or events are weak.
+- **Score 2:** The organization and connections between ideas and/or events are unclear.
+- **Score 0:** No organization is evident.
 
-- **Score 10:** The organization is clear and logical, with strong connections between ideas and events that enhance the narrative flow.
-- **Score 8:** The organization is logical, with clear connections between ideas and events that support the narrative.
-- **Score 6:** The organization is somewhat logical, but connections between ideas and events may be weak or unclear.
-- **Score 4:** The organization is poor, with little logical sequencing or connections between ideas and events.
-- **Score 2:** No organization is evident, making it difficult to follow the narrative.
+**Dimension 3: Style**  
+This dimension evaluates the command of language, including word choice and sentence structure. A high score indicates effective and compelling language use that supports the writer's purpose and audience.
 
-## 3. Style (0-10 points)
-This dimension assesses the writer's command of language, including word choice and sentence structure. A strong narrative will engage the reader through effective and varied language.
+- **Score 10:** The command of language, including effective and compelling word choice and varied sentence structure, clearly supports the writer's purpose and audience.
+- **Score 8:** The command of language, including effective word choice and varied sentence structure, supports the writer's purpose and audience.
+- **Score 6:** Adequate command of language, including effective word choice and clear sentences, supports the writer's purpose and audience.
+- **Score 4:** Limited use of language, including lack of variety in word choice and sentences, may hinder support for the writer's purpose and audience.
+- **Score 2:** Ineffective use of language that does not support the writer's purpose and audience.
+- **Score 0:** Language use is ineffective and does not support the writer's purpose and audience.
 
-- **Score 10:** The writer demonstrates a strong command of language, using compelling word choice and varied sentence structures that enhance the narrative.
-- **Score 8:** The writer shows adequate command of language, with effective word choice and clear sentences that support the narrative.
-- **Score 6:** The writer has limited command of language, with some effective word choice but a lack of variety in sentence structure.
-- **Score 4:** The writer's use of language is ineffective, with poor word choice and sentence structure that hinder the narrative.
-- **Score 2:** Language use is very limited and does not support the narrative effectively.
+**Dimension 4: Conventions**  
+This dimension assesses the use of conventions of Standard English for grammar, usage, spelling, capitalization, and punctuation. A high score indicates consistent and appropriate use of conventions.
 
-## 4. Conventions (0-10 points)
-This dimension evaluates the writer's use of Standard English conventions, including grammar, usage, spelling, capitalization, and punctuation. Proper conventions enhance the readability and professionalism of the narrative.
+- **Score 10:** Consistent, appropriate use of conventions of Standard English for grammar, usage, spelling, capitalization, and punctuation.
+- **Score 8:** Mostly consistent, appropriate use of conventions of Standard English for grammar, usage, spelling, capitalization, and punctuation.
+- **Score 6:** Adequate use of conventions of Standard English for grammar, usage, spelling, capitalization, and punctuation.
+- **Score 4:** Limited use of conventions of Standard English for grammar, usage, spelling, capitalization, and punctuation.
+- **Score 2:** Ineffective use of conventions of Standard English for grammar, usage, spelling, capitalization, and punctuation.
+- **Score 0:** Conventions of Standard English are not used effectively. 
 
-- **Score 10:** The writer consistently uses conventions of Standard English correctly, with no errors in grammar, usage, spelling, capitalization, or punctuation.
-- **Score 8:** The writer uses conventions of Standard English adequately, with few errors that do not impede understanding.
-- **Score 6:** The writer demonstrates limited use of conventions, with several errors that may distract the reader but do not significantly hinder understanding.
-- **Score 4:** The writer's use of conventions is poor, with frequent errors that make the narrative difficult to read.
-- **Score 2:** The writer's use of conventions is ineffective, with pervasive errors that severely hinder understanding.
-
-### Total Score: ___ / 40
-
-This rubric provides a comprehensive framework for evaluating writing quality based on the specified dimensions, ensuring a fair and consistent assessment of student work.
+**Total Score: 40**

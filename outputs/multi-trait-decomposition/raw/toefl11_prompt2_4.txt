@@ -1,20 +1,20 @@
 ### Grammatical Range and Accuracy
 
-Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.
+Grammatical Range and Accuracy refers to the variety and correctness of sentence structures used in writing or speaking, reflecting the speaker's or writer's command of grammar.
 
 ### Score Intervals
 
 - **Score 0-2**: 
-  - Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or failing to convey meaning.
+  - Characterized by an inability to use sentence forms effectively, with reliance on memorized phrases or complete lack of grammatical structure.
 
 - **Score 3-4**: 
-  - Attempts to use sentence structures but frequent grammatical errors distort meaning; very limited range of structures with predominant inaccuracies.
+  - Demonstrates attempts at sentence formation, but frequent grammatical and punctuation errors distort meaning, with limited use of complex structures.
 
 - **Score 5-6**: 
-  - Mix of simple and complex sentences; some grammatical errors present, but they rarely impede understanding; attempts at complexity may lead to inaccuracies.
+  - Shows a mix of simple and complex sentences, with some grammatical errors that may occasionally hinder communication, but generally maintains a basic level of accuracy.
 
 - **Score 7-8**: 
-  - Good control of a variety of complex structures; frequent error-free sentences with only occasional minor errors or inappropriacies.
+  - Utilizes a variety of complex structures with good control over grammar and punctuation, producing mostly error-free sentences with only occasional minor mistakes.
 
 - **Score 9-10**: 
-  - Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, demonstrating a high level of grammatical proficiency.
+  - Exhibits a wide range of structures with full flexibility and accuracy, making rare minor errors that do not detract from overall communication.

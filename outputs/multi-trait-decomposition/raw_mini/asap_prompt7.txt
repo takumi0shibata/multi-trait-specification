@@ -1,0 +1,43 @@
+# Essay Scoring Rubric
+
+This rubric evaluates writing quality across four primary dimensions: Ideas, Organization, Style, and Conventions. Each dimension is scored on a scale from 0 to 10, with a total possible score of 40. 
+
+## 1. Ideas (0-10 points)
+This dimension assesses the clarity and development of the story's ideas. A strong response will focus on the topic of patience and provide specific, relevant details that thoroughly develop the narrative.
+
+- **Score 10:** The story is exceptionally focused on the topic of patience, with ideas that are thoroughly developed through rich, specific details and examples.
+- **Score 8:** The story is focused on the topic of patience, with ideas that are well-developed using a mix of specific and general details.
+- **Score 6:** The story has some focus on the topic of patience, but ideas are minimally developed and rely on general details.
+- **Score 4:** The story is poorly focused on the topic of patience, with limited development of ideas and general details.
+- **Score 2:** Ideas are not focused on the topic of patience and are largely undeveloped.
+
+## 2. Organization (0-10 points)
+This dimension evaluates the logical sequencing and clarity of connections between ideas and events in the story. A well-organized narrative will guide the reader through the events in a coherent manner.
+
+- **Score 10:** The organization is clear and logical, with strong connections between ideas and events that enhance the narrative flow.
+- **Score 8:** The organization is logical, with clear connections between ideas and events that support the narrative.
+- **Score 6:** The organization is somewhat logical, but connections between ideas and events may be weak or unclear.
+- **Score 4:** The organization is poor, with little logical sequencing or connections between ideas and events.
+- **Score 2:** No organization is evident, making it difficult to follow the narrative.
+
+## 3. Style (0-10 points)
+This dimension assesses the writer's command of language, including word choice and sentence structure. A strong narrative will engage the reader through effective and varied language.
+
+- **Score 10:** The writer demonstrates a strong command of language, using compelling word choice and varied sentence structures that enhance the narrative.
+- **Score 8:** The writer shows adequate command of language, with effective word choice and clear sentences that support the narrative.
+- **Score 6:** The writer has limited command of language, with some effective word choice but a lack of variety in sentence structure.
+- **Score 4:** The writer's use of language is ineffective, with poor word choice and sentence structure that hinder the narrative.
+- **Score 2:** Language use is very limited and does not support the narrative effectively.
+
+## 4. Conventions (0-10 points)
+This dimension evaluates the writer's use of Standard English conventions, including grammar, usage, spelling, capitalization, and punctuation. Proper conventions enhance the readability and professionalism of the narrative.
+
+- **Score 10:** The writer consistently uses conventions of Standard English correctly, with no errors in grammar, usage, spelling, capitalization, or punctuation.
+- **Score 8:** The writer uses conventions of Standard English adequately, with few errors that do not impede understanding.
+- **Score 6:** The writer demonstrates limited use of conventions, with several errors that may distract the reader but do not significantly hinder understanding.
+- **Score 4:** The writer's use of conventions is poor, with frequent errors that make the narrative difficult to read.
+- **Score 2:** The writer's use of conventions is ineffective, with pervasive errors that severely hinder understanding.
+
+### Total Score: ___ / 40
+
+This rubric provides a comprehensive framework for evaluating writing quality based on the specified dimensions, ensuring a fair and consistent assessment of student work.

@@ -1,0 +1,53 @@
+### Writing Quality Scoring Rubric
+
+This rubric evaluates writing quality across four primary dimensions: Content and Development, Organization, Language Use, and Audience Awareness. Each dimension is scored on a scale from 0 to 10, with a total possible score of 40.
+
+---
+
+#### 1. Content and Development (0-10 points)
+**Description:** This dimension assesses the clarity of the position taken on the effects of computers on society, as well as the depth and relevance of the supporting details provided.
+
+- **0-2 points:** The response lacks a clear position or provides minimal support. Details are vague or irrelevant.
+- **3-4 points:** The position is unclear or underdeveloped, with general reasons that lack elaboration. Support is limited and may be list-like.
+- **5-6 points:** The position is present but may not be fully developed. Reasons are somewhat elaborated but still general, with some relevant details.
+- **7-8 points:** The position is clear and adequately supported with a mix of general and specific details. Reasons are elaborated but may lack depth.
+- **9-10 points:** The position is clear, thoughtful, and well-developed. Reasons are fully elaborated with specific, relevant details that effectively support the argument.
+
+---
+
+#### 2. Organization (0-10 points)
+**Description:** This dimension evaluates the overall structure of the writing, including the logical flow of ideas and the use of transitions.
+
+- **0-2 points:** The response is poorly organized, making it difficult to follow. There is little to no logical flow between ideas.
+- **3-4 points:** The organization is weak, with some attempt at structure but lacking clear transitions. Ideas may be presented in a confusing manner.
+- **5-6 points:** The response shows some organization, with a basic structure. Transitions are present but may be awkward or limited.
+- **7-8 points:** The writing is generally well-organized, with a clear structure and effective transitions that guide the reader through the argument.
+- **9-10 points:** The response is highly organized, with a logical flow of ideas and sophisticated transitions that enhance readability and coherence.
+
+---
+
+#### 3. Language Use (0-10 points)
+**Description:** This dimension assesses the writer's command of language, including vocabulary, sentence structure, and overall fluency.
+
+- **0-2 points:** The language is awkward or fragmented, making it difficult to read. Vocabulary is limited or inappropriate.
+- **3-4 points:** Language use is simplistic or unclear, with frequent errors in grammar or sentence structure that hinder understanding.
+- **5-6 points:** The language is generally clear, with some varied sentence structures. There may be occasional errors, but they do not significantly impede comprehension.
+- **7-8 points:** The writing demonstrates good command of language, with varied sentence structures and appropriate vocabulary. Errors are minimal and do not detract from clarity.
+- **9-10 points:** The response exhibits a strong command of language, with sophisticated vocabulary and varied sentence structures. The writing is fluent and engaging.
+
+---
+
+#### 4. Audience Awareness (0-10 points)
+**Description:** This dimension evaluates the writer's ability to engage and persuade the intended audience through tone, style, and relevance of content.
+
+- **0-2 points:** The response shows little to no awareness of the audience. The tone may be inappropriate or unengaging.
+- **3-4 points:** There is some attempt to address the audience, but the tone may be inconsistent or the content may not fully resonate with readers.
+- **5-6 points:** The writer demonstrates a basic awareness of the audience, with a generally appropriate tone and relevant content, though it may lack persuasive impact.
+- **7-8 points:** The response effectively engages the audience with a suitable tone and relevant arguments that resonate well with readers.
+- **9-10 points:** The writing shows a heightened awareness of the audience, employing a persuasive tone and compelling content that strongly engages and motivates readers.
+
+---
+
+### Total Score: ___ / 40
+
+This rubric provides a comprehensive framework for evaluating writing quality based on the specified dimensions, ensuring a fair and thorough assessment of the response to the prompt.

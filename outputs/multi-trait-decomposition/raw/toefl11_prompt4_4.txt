@@ -1,20 +1,20 @@
 ### Grammatical Range and Accuracy
 
-Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, reflecting the speaker's or writer's proficiency in the language.
+Grammatical Range and Accuracy refers to the variety and correctness of grammatical structures used in writing or speaking, assessing how well a person can communicate their ideas without errors.
 
 ### Score Intervals
 
 - **Score 0-2**: 
-  - Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or exhibiting no grammatical structure.
+  - Limited or no ability to use sentence forms; communication is severely hindered, often relying on memorized phrases or completely lacking structure.
 
 - **Score 3-4**: 
   - Attempts to use sentence forms but frequent grammatical and punctuation errors distort meaning; very limited range of structures with rare use of complex sentences.
 
 - **Score 5-6**: 
-  - Mix of simple and complex sentences with some grammatical errors; while errors may occur, they rarely impede overall communication; limited range of structures is evident.
+  - Mixes simple and complex sentences; some grammatical errors are present but do not significantly impede communication; attempts at complexity may be less accurate.
 
 - **Score 7-8**: 
-  - Good control of a variety of complex structures; frequent error-free sentences with occasional minor errors; demonstrates a wide range of grammatical forms.
+  - Demonstrates a good variety of complex structures with frequent error-free sentences; occasional minor errors may occur but do not detract from overall clarity.
 
 - **Score 9-10**: 
-  - Exceptional use of a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, showcasing a high level of grammatical proficiency.
+  - Exhibits a wide range of structures with full flexibility and accuracy; errors are rare and typically minor, showcasing a high level of grammatical control.

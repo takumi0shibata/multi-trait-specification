@@ -1,36 +1,43 @@
-### Writing Quality Scoring Rubric
+### Essay Scoring Rubric
 
-#### Dimension 1: Understanding of the Text (0-10 points)
-This dimension evaluates the depth of understanding demonstrated in the response regarding the complexities of the text. It assesses how well the writer addresses the prompt and incorporates both expressed and implied information from the excerpt.
+#### Dimension 1: Understanding and Interpretation
+This dimension evaluates the depth of understanding and interpretation of the text, focusing on how well the response addresses the prompt and demonstrates comprehension of the setting's impact on the cyclist.
 
-- **10-8 points:** The response shows a comprehensive understanding of the text, addressing all aspects of the prompt with insightful analysis. It effectively integrates both explicit and implicit details from the excerpt to support conclusions.
-- **7-5 points:** The response demonstrates a good understanding of the text, addressing most aspects of the prompt. It includes relevant details from the excerpt but may lack depth in analysis or connection to the conclusion.
-- **4-2 points:** The response shows a partial understanding of the text, addressing some aspects of the prompt but lacking clarity or depth. It includes minimal details from the excerpt, which may not fully support the conclusions drawn.
-- **1-0 points:** The response shows little to no understanding of the text. It may misinterpret the prompt or provide irrelevant information, lacking any meaningful connection to the excerpt.
+- **Score 10:** Demonstrates a comprehensive understanding of the text, addressing all aspects of the prompt with insightful interpretation. Uses both expressed and implied information to explain how the setting affects the cyclist.
+- **Score 8:** Shows a strong understanding of the text, addressing most aspects of the prompt. Uses expressed and some implied information to explain the setting's impact on the cyclist.
+- **Score 6:** Demonstrates a general understanding of the text, addressing the prompt but with limited depth. Relies mostly on expressed information with minimal use of implied details.
+- **Score 4:** Shows a partial understanding of the text, addressing the prompt in a basic manner. Uses limited information from the text, with little to no interpretation.
+- **Score 2:** Demonstrates minimal understanding of the text, with a vague or incomplete response to the prompt. Lacks sufficient information or interpretation.
+- **Score 0:** Shows no understanding of the text or fails to address the prompt.
 
-#### Dimension 2: Use of Evidence (0-10 points)
-This dimension assesses how effectively the writer uses evidence from the text to support their claims. It looks at the relevance and integration of quotes or examples from the excerpt.
+#### Dimension 2: Use of Evidence
+This dimension assesses the ability to select and incorporate relevant examples from the text to support the response.
 
-- **10-8 points:** The response uses multiple, well-chosen examples from the text that are seamlessly integrated into the analysis. The evidence strongly supports the claims made and enhances the overall argument.
-- **7-5 points:** The response includes relevant examples from the text, but they may not be as thoroughly integrated or may lack variety. The evidence supports the claims but could be more compelling.
-- **4-2 points:** The response provides minimal evidence from the text, which may be vague or not directly relevant to the claims made. The connection between evidence and analysis is weak.
-- **1-0 points:** The response lacks any meaningful evidence from the text. It may contain general statements without support or rely on personal opinion without reference to the excerpt.
+- **Score 10:** Skillfully selects and integrates a wide range of relevant examples from the text to support the response, enhancing the argument.
+- **Score 8:** Effectively uses several relevant examples from the text to support the response, though some may be less directly connected.
+- **Score 6:** Uses some relevant examples from the text, but they may be limited in scope or not fully integrated into the response.
+- **Score 4:** Provides few examples from the text, with limited relevance or connection to the response.
+- **Score 2:** Uses minimal or irrelevant examples from the text, failing to support the response adequately.
+- **Score 0:** Provides no examples from the text.
 
-#### Dimension 3: Clarity and Coherence (0-10 points)
-This dimension evaluates the organization and clarity of the response. It considers how well the ideas are structured and whether the writing is easy to follow.
+#### Dimension 3: Analysis and Insight
+This dimension evaluates the depth of analysis and the ability to extend understanding beyond the literal interpretation of the text.
 
-- **10-8 points:** The response is well-organized, with a clear introduction, body, and conclusion. Ideas flow logically, and transitions between points are smooth, making the argument easy to follow.
-- **7-5 points:** The response is generally organized, but there may be some lapses in clarity or logical flow. Ideas are presented in a coherent manner, but transitions could be improved.
-- **4-2 points:** The response lacks clear organization, making it difficult to follow. Ideas may be presented in a disjointed manner, with unclear transitions between points.
-- **1-0 points:** The response is poorly organized and difficult to understand. Ideas are presented randomly, with little to no logical flow or coherence.
+- **Score 10:** Offers a nuanced analysis with insightful connections and extensions beyond the literal interpretation, demonstrating a deep understanding of the text.
+- **Score 8:** Provides a solid analysis with some insightful connections, extending understanding beyond the literal interpretation.
+- **Score 6:** Demonstrates basic analysis with limited insight, primarily focusing on literal interpretation.
+- **Score 4:** Offers minimal analysis with little to no insight, relying heavily on literal interpretation.
+- **Score 2:** Provides a superficial analysis with no insight, failing to extend understanding beyond the literal.
+- **Score 0:** Lacks analysis or insight.
 
-#### Dimension 4: Language and Conventions (0-10 points)
-This dimension assesses the writer's use of language, including grammar, punctuation, and vocabulary. It considers how effectively the writer communicates their ideas through language.
+#### Dimension 4: Organization and Coherence
+This dimension assesses the clarity and coherence of the response, focusing on the logical flow and organization of ideas.
 
-- **10-8 points:** The response demonstrates a strong command of language, with few or no grammatical errors. Vocabulary is varied and appropriate, enhancing the overall quality of the writing.
-- **7-5 points:** The response shows a good command of language, with some grammatical errors that do not significantly impede understanding. Vocabulary is generally appropriate but may lack variety.
-- **4-2 points:** The response contains frequent grammatical errors that may hinder understanding. Vocabulary is limited or inappropriate for the context.
-- **1-0 points:** The response demonstrates a poor command of language, with numerous errors that make it difficult to understand. Vocabulary is inappropriate or overly simplistic.
+- **Score 10:** Presents a well-organized and coherent response with a logical flow of ideas, enhancing readability and understanding.
+- **Score 8:** Maintains a clear organization and coherence, though some transitions may be less smooth.
+- **Score 6:** Demonstrates basic organization and coherence, but with some lapses in logical flow or clarity.
+- **Score 4:** Shows limited organization and coherence, with a disjointed or unclear presentation of ideas.
+- **Score 2:** Lacks organization and coherence, with a confusing or illogical presentation of ideas.
+- **Score 0:** Provides no organization or coherence.
 
-### Total Score: 0-40 points
-The total score is the sum of the scores from each dimension, providing an overall assessment of the writing quality based on the criteria outlined above.
+**Total Score:** The total score is the sum of the scores from each dimension, with a maximum possible score of 40.

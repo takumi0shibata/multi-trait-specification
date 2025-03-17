@@ -1,0 +1,63 @@
+# Essay Scoring Rubric
+
+This rubric evaluates writing quality across four primary dimensions: Ideas and Content, Organization, Voice, and Conventions. Each dimension is scored on a scale from 0 to 10, with a total possible score of 40. 
+
+## 1. Ideas and Content (0-10 points)
+This dimension assesses the clarity, focus, and depth of the main ideas presented in the essay. It evaluates how well the writer develops their narrative and the relevance of supporting details.
+
+- **10 points:** The writing is exceptionally clear, focused, and engaging. Main ideas are well-developed with rich, relevant details that enhance the narrative. Insights and connections are thoroughly explored.
+- **9 points:** The writing is clear and interesting, with strong main ideas supported by relevant details. The narrative is engaging and well-developed.
+- **8 points:** The writing is mostly clear and focused, with identifiable main ideas. Supporting details are relevant but may lack depth or variety.
+- **7 points:** The writing presents clear main ideas, but support is limited or overly general. Some connections and insights are present, but the exploration of the topic is superficial.
+- **6 points:** Main ideas are somewhat unclear or simplistic. Support is minimal, and details may be irrelevant or repetitive.
+- **5 points:** The writing lacks a clear central idea or purpose. Development is minimal, with insufficient details and irrelevant content.
+- **4 points:** The writing is confusing, with unclear main ideas and minimal development. The reader struggles to identify the purpose.
+- **3 points:** The writing is extremely limited or unclear, lacking any identifiable main ideas or purpose.
+- **2 points:** The writing fails to communicate a coherent message, with no development of ideas.
+- **1 point:** The writing is incomprehensible, lacking any central idea or purpose.
+
+## 2. Organization (0-10 points)
+This dimension evaluates the structure and flow of the essay. It considers how effectively the writer organizes their ideas and transitions between them.
+
+- **10 points:** The organization enhances the central ideas, with compelling sequencing and effective transitions. The writing flows smoothly and has a strong beginning and conclusion.
+- **9 points:** The organization is strong, with clear sequencing and effective transitions. The writing is easy to follow and has a satisfying structure.
+- **8 points:** The organization is clear and coherent, with identifiable sequencing. The writing is mostly easy to follow, though some transitions may be awkward.
+- **7 points:** The writing has some organizational structure, but it may be formulaic or predictable. Transitions are present but may be ineffective.
+- **6 points:** The organization is unclear, with a lack of effective sequencing. The reader may struggle to follow the ideas.
+- **5 points:** The writing lacks a clear organizational structure, making it difficult to follow. Ideas may seem randomly placed.
+- **4 points:** The writing is disjointed, with little coherence or logical flow. The reader is often confused.
+- **3 points:** The writing is haphazardly organized, making it very difficult to follow.
+- **2 points:** The writing lacks any discernible organization, leaving the reader lost.
+- **1 point:** The writing is completely incoherent, with no structure whatsoever.
+
+## 3. Voice (0-10 points)
+This dimension assesses the writer's ability to convey a personal voice and engage the audience. It evaluates the expressiveness and appropriateness of the tone.
+
+- **10 points:** The writer's voice is engaging and appropriate for the topic, demonstrating deep commitment. The writing feels alive and interactive.
+- **9 points:** The voice is strong and appropriate, effectively engaging the audience. The writing is expressive and sincere.
+- **8 points:** A clear voice is present, with some expressiveness. The writing is mostly engaging but may lack consistency in tone.
+- **7 points:** The voice is somewhat present but may be inconsistent or inappropriate at times. The writing lacks engagement.
+- **6 points:** The writing is flat or mechanical, with little sense of the writer's involvement. The voice is not well-suited to the audience.
+- **5 points:** The writing lacks engagement and feels lifeless. There is little sense of interaction with the reader.
+- **4 points:** The voice is weak, with minimal engagement or commitment to the topic. The writing feels impersonal.
+- **3 points:** The writing lacks a discernible voice, making it feel disconnected from the audience.
+- **2 points:** The writing is completely devoid of voice, lacking any engagement or personal touch.
+- **1 point:** The writing is flat and lifeless, with no sense of the writer behind the words.
+
+## 4. Conventions (0-10 points)
+This dimension evaluates the writer's control over standard writing conventions, including grammar, punctuation, spelling, and overall readability.
+
+- **10 points:** The writing demonstrates exceptional control of conventions, with few minor errors that do not impede readability. 
+- **9 points:** The writing shows strong control of conventions, with minor errors that do not distract from the message.
+- **8 points:** The writing demonstrates control over conventions, with occasional errors that may be noticeable but do not impede understanding.
+- **7 points:** The writing has several errors in conventions that may distract the reader but do not significantly hinder comprehension.
+- **6 points:** The writing contains frequent errors that begin to impede readability, though the overall message is still understandable.
+- **5 points:** The writing has numerous errors that interfere with readability and meaning, requiring effort to understand.
+- **4 points:** The writing is filled with significant errors that make it difficult to read and comprehend.
+- **3 points:** The writing is riddled with errors that severely distract from the message, making it hard to follow.
+- **2 points:** The writing is so filled with errors that it is nearly impossible to read or understand.
+- **1 point:** The writing is incomprehensible due to overwhelming errors in conventions.
+
+### Total Score: ___ / 40
+
+This rubric provides a comprehensive framework for evaluating writing quality, ensuring that all critical aspects of effective writing are considered.
