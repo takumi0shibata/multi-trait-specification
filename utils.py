@@ -51,7 +51,7 @@ def load_toefl_dataset(dataset_dir: str, essay_set: int = None) -> pl.DataFrame:
 
 def load_asap_dataset(dataset_dir: str, stratify: bool = False, essay_set: int = None) -> pl.DataFrame:
     data_path = os.path.join(dataset_dir, 'training_set_rel3.xlsx')
-    df = pl.read_excel(data_path)
+    df = pl.read_excel(data_path, infer_schema_length=10000)
     df = df.rename({'domain1_score': 'score'})
     df = df[['essay_set', 'essay_id', 'essay', 'score']]
     df = df.drop_nulls('score')

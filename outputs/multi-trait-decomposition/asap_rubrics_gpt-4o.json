@@ -1,0 +1,194 @@
+{
+    "prompt1": {
+      "dimensions": [
+        {
+          "name": "Position and Argument Clarity",
+          "description": "This dimension evaluates how clearly the writer takes a position on the effects of computers on society and how effectively they argue their point.",
+          "scoring_criteria": "Score 0-2: The position is unclear or absent. The argument is vague or non-existent.\nScore 3-4: The position is present but not clearly stated. The argument is weak and lacks clarity.\nScore 5-6: The position is somewhat clear, but the argument lacks depth and persuasiveness.\nScore 7-8: The position is clear, and the argument is adequately persuasive with some depth.\nScore 9-10: The position is very clear, and the argument is highly persuasive and well-developed."
+        },
+        {
+          "name": "Support and Elaboration",
+          "description": "This dimension assesses the extent and quality of support provided for the writer’s position, including the use of specific details and examples.",
+          "scoring_criteria": "Score 0-2: Little to no support is provided. Details are vague or absent.\nScore 3-4: Minimal support with general or list-like details. Few examples are provided.\nScore 5-6: Some support with a mix of general and specific details. Examples are present but not fully developed.\nScore 7-8: Adequate support with specific details and examples that enhance the argument.\nScore 9-10: Extensive support with well-chosen, specific details and examples that strongly bolster the argument."
+        },
+        {
+          "name": "Organization and Coherence",
+          "description": "This dimension evaluates the logical flow and structure of the essay, including the use of transitions and the overall coherence of the argument.",
+          "scoring_criteria": "Score 0-2: The essay lacks organization and coherence. Ideas are fragmented and difficult to follow.\nScore 3-4: The essay shows little organization. Transitions are minimal or absent, leading to a confused structure.\nScore 5-6: The essay has some organization, but transitions are awkward or limited. The structure is somewhat coherent.\nScore 7-8: The essay is well-organized with effective transitions. The argument flows logically.\nScore 9-10: The essay is excellently organized with sophisticated transitions. The argument is coherent and flows seamlessly."
+        },
+        {
+          "name": "Audience Awareness and Language Use",
+          "description": "This dimension assesses the writer’s awareness of the audience and the effectiveness of language use, including vocabulary and tone.",
+          "scoring_criteria": "Score 0-2: Little to no awareness of the audience. Language is inappropriate or ineffective.\nScore 3-4: Limited awareness of the audience. Language is simplistic or awkward.\nScore 5-6: Some awareness of the audience. Language is generally appropriate but lacks sophistication.\nScore 7-8: Adequate awareness of the audience. Language is effective and appropriate.\nScore 9-10: Strong awareness of the audience. Language is sophisticated and highly effective."
+        }
+      ]
+    },
+    "prompt2": {
+      "dimensions": [
+        {
+          "name": "Ideas and Content",
+          "description": "This dimension assesses the depth and relevance of the ideas presented in the essay and how well the essay supports its opinion on censorship in libraries.",
+          "scoring_criteria": "Score 10: The essay presents a thorough and insightful exploration of the topic, with exceptional supporting details and a fully developed argument.\nScore 8: The essay provides in-depth information and more than adequate supporting details, exploring many facets of the topic.\nScore 6: The essay includes sufficient information and supporting details, exploring some facets of the topic.\nScore 4: The essay includes some relevant ideas but lacks depth, with few supporting details.\nScore 2: The essay includes minimal relevant ideas and little information, with few or no supporting details.\nScore 0: The essay fails to present relevant ideas or support an opinion on the topic."
+        },
+        {
+          "name": "Organization",
+          "description": "This dimension evaluates the logical structure and flow of the essay. It considers how well the essay presents a cohesive whole with a clear beginning, middle, and end.",
+          "scoring_criteria": "Score 10: The essay is exceptionally well-organized, with a meaningful, cohesive structure and smooth transitions that enhance the text's meaning.\nScore 8: The essay is well-organized, with a solid introduction, middle, and conclusion, and includes smooth transitions.\nScore 6: The essay is generally organized, with a clear beginning, middle, and end, despite occasional lapses.\nScore 4: The essay attempts to organize ideas but may have a weak or absent introduction, middle, or conclusion, with rough transitions.\nScore 2: The essay shows minimal organization, with a confusing or unclear progression of ideas and weak or absent transitions.\nScore 0: The essay lacks logical organization, making it difficult to follow."
+        },
+        {
+          "name": "Style",
+          "description": "This dimension assesses the essay's word usage and writing technique, including the richness of vocabulary, sentence variety, and use of literary techniques.",
+          "scoring_criteria": "Score 10: The essay exhibits exceptional word usage, with varied and precise vocabulary, and demonstrates exceptional writing technique with varied sentence patterns.\nScore 8: The essay demonstrates very good word usage and writing technique, with rich vocabulary and varied sentence patterns.\nScore 6: The essay demonstrates good word usage and writing technique, with appropriately chosen vocabulary and some varied sentence patterns.\nScore 4: The essay exhibits ordinary word usage, with basic vocabulary and mostly simple sentences.\nScore 2: The essay exhibits minimal word usage, with limited vocabulary and reliance on simple sentences.\nScore 0: The essay exhibits less than minimal word usage, with incorrect vocabulary and problems with sentence patterns."
+        },
+        {
+          "name": "Voice",
+          "description": "This dimension evaluates the essay's tone and sense of audience, considering how well the essay adjusts language and tone to suit the task and engages the reader with an original perspective.",
+          "scoring_criteria": "Score 10: The essay demonstrates an exceptional adjustment of language and tone, with a strong sense of audience and an original, engaging perspective.\nScore 8: The essay demonstrates effective adjustment of language and tone, with a sense of audience and an original perspective.\nScore 6: The essay demonstrates an attempt to adjust language and tone, with some sense of audience and an attempt at an original perspective.\nScore 4: The essay demonstrates difficulty in establishing a register, with little sense of audience and a lack of original perspective.\nScore 2: The essay demonstrates inappropriate language and tone, with no sense of audience and no original perspective.\nScore 0: The essay fails to demonstrate appropriate language and tone, with no sense of audience or original perspective."
+        }
+      ]
+    },
+    "prompt3": {
+      "dimensions": [
+        {
+          "name": "Understanding and Interpretation",
+          "description": "This dimension focuses on the depth of understanding and interpretation of the text, particularly how well the response addresses the prompt and the cyclist’s experience in the setting.",
+          "scoring_criteria": "Score 10: Demonstrates a comprehensive understanding of the text, addressing all aspects of the prompt with insightful interpretation. Uses both expressed and implied information.\nScore 8: Shows a strong understanding of the text, addressing most aspects of the prompt. Uses expressed and some implied information.\nScore 6: Demonstrates a general understanding of the text, addressing the prompt but with limited depth. Relies mostly on expressed information.\nScore 4: Shows a partial understanding of the text, addressing the prompt in a basic manner with little to no interpretation.\nScore 2: Demonstrates minimal understanding of the text, with a vague or incomplete response to the prompt.\nScore 0: Shows no understanding of the text or fails to address the prompt."
+        },
+        {
+          "name": "Use of Evidence",
+          "description": "This dimension assesses the ability to select and incorporate relevant examples from the text to support the response.",
+          "scoring_criteria": "Score 10: Skillfully selects and integrates a wide range of relevant examples from the text to support the response, enhancing the argument.\nScore 8: Effectively uses several relevant examples from the text, though some may be less directly connected.\nScore 6: Uses some relevant examples from the text, but they may be limited in scope or not fully integrated.\nScore 4: Provides few examples from the text, with limited relevance or connection.\nScore 2: Uses minimal or irrelevant examples from the text, failing to support the response adequately.\nScore 0: Provides no examples from the text."
+        },
+        {
+          "name": "Analysis and Insight",
+          "description": "This dimension evaluates the depth of analysis and the ability to extend understanding beyond the literal interpretation of the text.",
+          "scoring_criteria": "Score 10: Offers a nuanced analysis with insightful connections, demonstrating a deep understanding of the text.\nScore 8: Provides a solid analysis with some insightful connections, extending understanding beyond the literal.\nScore 6: Demonstrates basic analysis with limited insight, focusing on literal interpretation.\nScore 4: Offers minimal analysis with little to no insight, relying heavily on literal interpretation.\nScore 2: Provides a superficial analysis with no insight, failing to extend understanding beyond the literal.\nScore 0: Lacks analysis or insight entirely."
+        },
+        {
+          "name": "Organization and Coherence",
+          "description": "This dimension focuses on the clarity and coherence of the response, including the logical flow and organization of ideas.",
+          "scoring_criteria": "Score 10: Presents a well-organized and coherent response with a logical flow of ideas, enhancing readability.\nScore 8: Maintains a clear organization and coherence, though some transitions may be less smooth.\nScore 6: Demonstrates basic organization and coherence, but with some lapses in flow or clarity.\nScore 4: Shows limited organization and coherence, with a disjointed or unclear presentation.\nScore 2: Lacks organization and coherence, with a confusing or illogical presentation.\nScore 0: Provides no organization or coherence."
+        }
+      ]
+    },
+    "prompt4": {
+      "dimensions": [
+        {
+          "name": "Understanding of Text Complexity",
+          "description": "This dimension evaluates the depth of understanding of the text’s complexities, including themes, character development, and implied meanings.",
+          "scoring_criteria": "Score 10: Demonstrates a comprehensive understanding of the text’s complexities, addressing all aspects of the prompt with insightful analysis.\nScore 8: Shows a strong understanding of the text, addressing most aspects of the prompt. Uses expressed and implied information.\nScore 6: Demonstrates a good understanding of the text, addressing the prompt adequately but may not fully explore implied meanings.\nScore 4: Shows a basic understanding of the text, relying mostly on expressed information with limited exploration of implied meanings.\nScore 2: Demonstrates minimal understanding, addressing the prompt superficially or relying heavily on literal information.\nScore 0: Shows no understanding or fails to address the prompt."
+        },
+        {
+          "name": "Use of Textual Evidence",
+          "description": "This dimension assesses the ability to use textual evidence to support analysis and interpretations.",
+          "scoring_criteria": "Score 10: Skillfully integrates a wide range of textual evidence, both expressed and implied, to support analysis. Evidence is relevant and enhances the argument.\nScore 8: Effectively uses textual evidence to support analysis, though some examples may be less relevant or not fully integrated.\nScore 6: Uses adequate textual evidence to support analysis, though it may be limited in scope or relevance.\nScore 4: Uses some textual evidence, but it may be insufficient, irrelevant, or poorly integrated.\nScore 2: Uses minimal or irrelevant textual evidence, failing to support the analysis effectively.\nScore 0: Does not use textual evidence or uses it incorrectly."
+        },
+        {
+          "name": "Clarity and Coherence",
+          "description": "This dimension evaluates the clarity and coherence of the response, including organization, logical flow, and clarity of expression.",
+          "scoring_criteria": "Score 10: Presents a clear and coherent response with a logical flow of ideas. Expression is precise and enhances understanding.\nScore 8: Provides a mostly clear and coherent response with a logical flow, though some areas may lack precision.\nScore 6: Offers a generally clear response, though organization may be inconsistent. Expression is adequate but may lack clarity in places.\nScore 4: Presents a response with limited clarity and coherence. Organization is weak, and expression may be confusing.\nScore 2: Provides a response that lacks clarity and coherence, with poor organization.\nScore 0: Fails to present a coherent response or lacks clarity entirely."
+        },
+        {
+          "name": "Extension Beyond the Literal",
+          "description": "This dimension assesses the ability to extend understanding beyond the literal interpretation of the text, including thematic analysis and personal reflection.",
+          "scoring_criteria": "Score 10: Extends understanding well beyond the literal, offering insightful thematic analysis and personal reflection, connecting ideas to broader contexts.\nScore 8: Extends understanding beyond the literal with effective thematic analysis and some personal reflection. Connections to broader contexts may lack depth.\nScore 6: Shows some extension beyond the literal with basic thematic analysis. Personal reflection may be limited.\nScore 4: Offers limited extension beyond the literal, with minimal thematic analysis or reflection.\nScore 2: Provides little to no extension beyond the literal, lacking thematic analysis or reflection.\nScore 0: Does not extend beyond the literal or fails to provide thematic analysis."
+        }
+      ]
+    },
+    "prompt5": {
+      "dimensions": [
+        {
+          "name": "Comprehension and Interpretation",
+          "description": "This dimension evaluates the writer’s ability to understand and interpret the mood created by the author in the memoir, identifying and explaining it with evidence.",
+          "scoring_criteria": "Score 10: Demonstrates a thorough understanding of the mood, offering insightful interpretation and analysis with specific, relevant information.\nScore 8: Shows a clear understanding of the mood, with accurate interpretation supported by relevant information.\nScore 6: Shows a general understanding of the mood, with some interpretation supported by vague or general information.\nScore 4: Shows a partial understanding of the mood, with limited interpretation and minor misinterpretations.\nScore 2: Shows minimal understanding of the mood, with little interpretation and significant misinterpretations.\nScore 0: Demonstrates no comprehension of the mood or includes irrelevant/correctness issues."
+        },
+        {
+          "name": "Use of Evidence",
+          "description": "This dimension assesses the writer’s ability to support their interpretation of the mood with specific and relevant evidence from the memoir.",
+          "scoring_criteria": "Score 10: Effectively uses specific and relevant evidence from the memoir to support the interpretation of the mood, well-integrated into the analysis.\nScore 8: Uses relevant evidence from the memoir to support the interpretation, though it may lack depth or specificity.\nScore 6: Uses some evidence from the memoir, though it may be general or not fully integrated.\nScore 4: Uses limited or vague evidence from the memoir, not effectively supporting the interpretation.\nScore 2: Uses minimal or irrelevant evidence, failing to support the interpretation.\nScore 0: Includes no evidence from the memoir or uses it incorrectly."
+        },
+        {
+          "name": "Organization and Coherence",
+          "description": "This dimension evaluates the writer’s ability to organize their response logically and coherently, ensuring ideas flow smoothly and are easy to follow.",
+          "scoring_criteria": "Score 10: The response is well-organized and coherent, with a logical flow of ideas and smooth transitions.\nScore 8: The response is organized and coherent, with generally smooth transitions, though minor lapses may occur.\nScore 6: The response has a basic organizational structure, but the flow may be uneven or transitions awkward.\nScore 4: The response is weakly organized, with a disjointed flow and unclear transitions.\nScore 2: The response lacks organization, making it confusing or illogical.\nScore 0: The response is disorganized and incoherent, with no logical flow."
+        },
+        {
+          "name": "Language and Conventions",
+          "description": "This dimension assesses the writer’s command of language, including grammar, punctuation, spelling, and vocabulary, as well as adherence to standard writing conventions.",
+          "scoring_criteria": "Score 10: Demonstrates a strong command of language, with varied and precise vocabulary and minimal errors.\nScore 8: Demonstrates good control of language, with appropriate vocabulary and minor errors that do not impede understanding.\nScore 6: Demonstrates an adequate command of language, with some errors that occasionally impede understanding.\nScore 4: Demonstrates limited command of language, with frequent errors that may impede understanding.\nScore 2: Demonstrates poor command of language, with numerous errors that significantly impede understanding.\nScore 0: The response is incoherent due to pervasive errors in language and conventions."
+        }
+      ]
+    },
+    "prompt6": {
+      "dimensions": [
+        {
+          "name": "Comprehension and Accuracy",
+          "description": "This dimension evaluates how clearly and accurately the response identifies the obstacles faced by the builders of the Empire State Building in allowing dirigibles to dock, using specific information from the excerpt.",
+          "scoring_criteria": "Score 10: Provides a clear, complete, and accurate description of all major obstacles, supported by specific and relevant information.\nScore 8: Describes most of the major obstacles accurately, with relevant information, though some details may be incomplete.\nScore 6: Identifies some obstacles with partial accuracy and includes limited information from the excerpt.\nScore 4: Minimally identifies obstacles, with little relevant information and possible inaccuracies.\nScore 2: Shows minimal understanding, with little to no relevant information and significant inaccuracies.\nScore 0: Fails to address the prompt or is entirely incorrect."
+        },
+        {
+          "name": "Use of Evidence",
+          "description": "This dimension assesses how well the response incorporates specific evidence from the excerpt to support its description of obstacles.",
+          "scoring_criteria": "Score 10: Effectively integrates specific and relevant evidence from the excerpt to support each identified obstacle.\nScore 8: Uses relevant evidence for most obstacles, though some may be less specific or fully integrated.\nScore 6: Includes limited evidence with partial relevance.\nScore 4: Provides minimal or vague evidence, offering little support.\nScore 2: Uses minimal or irrelevant evidence, failing to support the description of obstacles.\nScore 0: Lacks evidence entirely or includes irrelevant information."
+        },
+        {
+          "name": "Organization and Coherence",
+          "description": "This dimension evaluates the logical organization and clarity of the response, including the sequence of ideas and use of transitions.",
+          "scoring_criteria": "Score 10: Well-organized, with a logical flow of ideas and clear transitions.\nScore 8: Mostly organized, with a generally logical structure, though minor lapses in coherence may occur.\nScore 6: Has a basic structure but may lack clear transitions or logical flow.\nScore 4: Shows minimal organization, with unclear or disjointed ideas.\nScore 2: Lacks organization entirely, presenting ideas in a confusing or illogical manner.\nScore 0: Disorganized and incoherent, with no clear structure."
+        },
+        {
+          "name": "Writing Conventions",
+          "description": "This dimension assesses the writer’s use of grammar, punctuation, spelling, and overall adherence to standard writing conventions.",
+          "scoring_criteria": "Score 10: Demonstrates a strong command of writing conventions, with few or no errors.\nScore 8: Shows a good command of writing conventions, with minor errors that do not impede understanding.\nScore 6: Contains several errors, but they do not significantly hinder comprehension.\nScore 4: Frequent errors may impede understanding.\nScore 2: Numerous errors that severely hinder comprehension.\nScore 0: Riddled with errors, rendering the response incomprehensible."
+        }
+      ]
+    },
+    "prompt7": {
+      "dimensions": [
+        {
+          "name": "Ideas (Score doubled)",
+          "description": "This dimension evaluates the focus and development of ideas in the story. A high score indicates that the story is clearly centered on the topic of patience and thoroughly developed with specific, relevant details.",
+          "scoring_criteria": "Score 0: The story is not focused on the topic of patience and lacks development.\nScore 2: The story lacks focus on the topic of patience and is underdeveloped.\nScore 4: The story is minimally focused on patience and developed with limited/general details.\nScore 6: The story is somewhat focused on patience and includes a mix of specific and general details.\nScore 8: The story is clearly focused on patience and is well-developed with relevant details.\nScore 10: The story is exceptionally focused on patience, with thorough development and specific, relevant details that enhance the narrative.\n\n(Note: This dimension’s score is doubled toward the total.)"
+        },
+        {
+          "name": "Organization",
+          "description": "This dimension assesses the clarity and logical sequencing of the story, as well as the connections between ideas or events.",
+          "scoring_criteria": "Score 0: No organization is evident.\nScore 2: The organization and connections between ideas/events are unclear.\nScore 4: Weak organization; connections may be vague.\nScore 6: Organization is somewhat logical, but connections could be clearer.\nScore 8: Organization is logical, with clear connections between events.\nScore 10: Organization is exceptionally clear and logically sequenced, enhancing the narrative flow."
+        },
+        {
+          "name": "Style",
+          "description": "This dimension evaluates the command of language, including word choice and sentence structure, to support the writer’s purpose and audience.",
+          "scoring_criteria": "Score 0: Language use is ineffective and does not support the narrative.\nScore 2: Language use is very limited; ineffective word choice and sentence structures.\nScore 4: Limited variety in word choice and sentences; may hinder the narrative.\nScore 6: Adequate language use, with some effective word choice; sentence structure is mostly clear.\nScore 8: Effective word choice and varied sentence structures that support the purpose.\nScore 10: Exceptional language use, with compelling word choice and varied sentence patterns that strongly enhance the narrative."
+        },
+        {
+          "name": "Conventions",
+          "description": "This dimension assesses the correct and consistent use of Standard English conventions, including grammar, usage, spelling, capitalization, and punctuation.",
+          "scoring_criteria": "Score 0: Conventions of Standard English are not used effectively.\nScore 2: Ineffective use of conventions, with pervasive errors.\nScore 4: Frequent errors in conventions make the narrative difficult to read.\nScore 6: Several errors, but they do not significantly hinder comprehension.\nScore 8: Mostly consistent and appropriate use of conventions, with minor errors.\nScore 10: Consistent, correct use of conventions with no noticeable errors."
+        }
+      ]
+    },
+    "prompt8": {
+      "dimensions": [
+        {
+          "name": "Ideas and Content",
+          "description": "This dimension assesses the clarity, focus, and depth of the writing. It evaluates how well the main ideas are developed and supported with relevant details.",
+          "scoring_criteria": "Score 0-1: The writing lacks a clear central idea or purpose, with minimal or nonexistent development.\nScore 2-3: Main ideas and purpose are somewhat unclear or underdeveloped.\nScore 4-5: Main ideas are present but may be broad or simplistic. Supporting details are limited or general.\nScore 6-7: Ideas are clear and somewhat focused, with some relevant details but lacking depth.\nScore 8-9: The writing is clear and focused. Main ideas stand out and are supported by relevant details. Exploration is thorough but may lack some insight.\nScore 10: The writing is exceptionally clear, focused, and engaging, with well-developed ideas and rich, relevant details."
+        },
+        {
+          "name": "Organization",
+          "description": "This dimension evaluates the structure and flow of the writing, considering how effectively ideas are sequenced and connected.",
+          "scoring_criteria": "Score 0-1: The writing is entirely disorganized, with no logical flow.\nScore 2-3: The writing is confusing or incoherent, lacking a discernible structure.\nScore 4-5: The writing is disjointed, with weak transitions and a lack of clear progression.\nScore 6-7: The organization is basic but present, though transitions may be formulaic or awkward.\nScore 8-9: The writing is well-organized, with clear sequencing and effective transitions. The structure is generally easy to follow.\nScore 10: The organization enhances the main ideas, with compelling sequencing and smooth transitions. The structure strongly supports readability."
+        },
+        {
+          "name": "Voice",
+          "description": "This dimension assesses the writer’s engagement with the topic and audience, including expressiveness and sincerity of the writing.",
+          "scoring_criteria": "Score 0-1: The writing is disengaged and lacks any sense of the writer’s voice.\nScore 2-3: The writing is flat or lifeless, with no clear engagement or audience awareness.\nScore 4-5: The writer’s voice is weak, showing limited commitment to the topic.\nScore 6-7: A voice is present but may be inconsistent or insufficiently engaging.\nScore 8-9: The writer’s voice is strong and appropriate, effectively engaging the audience.\nScore 10: The writing is alive and interactive, with a deeply committed voice that suits the topic and audience perfectly."
+        },
+        {
+          "name": "Conventions",
+          "description": "This dimension evaluates the writer’s control over standard writing conventions, such as punctuation, spelling, capitalization, grammar, and usage.",
+          "scoring_criteria": "Score 0-1: The text is nearly impossible to understand due to overwhelming errors.\nScore 2-3: The writing contains numerous errors that severely distract from or impede comprehension.\nScore 4-5: The writing has significant errors that make it difficult to follow.\nScore 6-7: The writing contains frequent errors that begin to impede readability, though the main message is generally understandable.\nScore 8-9: The writing shows strong control of conventions with occasional minor errors that do not hinder understanding.\nScore 10: The writing demonstrates exceptional control of conventions, with very few or no errors."
+        }
+      ]
+    }
+  }

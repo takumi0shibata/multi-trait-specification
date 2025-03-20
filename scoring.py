@@ -115,11 +115,14 @@ def main():
     df = load_asap_dataset('datasets/ASAP', stratify=True)
 
     # Load scoring criteria
-    with open('outputs/multi-trait-decomposition/asap_rubrics_gpt-4o-mini.json') as f:
+    with open('outputs/multi-trait-decomposition/asap_rubrics_gpt-4o.json') as f:
         all_scoring_criteria = json.load(f)
 
     # Initialize model and tokenizer
-    model_name = "meta-llama/Llama-2-7b-chat-hf"
+    # model_name = "meta-llama/Llama-2-7b-chat-hf"
+    # model_name = "meta-llama/Llama-3.1-8B-Instruct"
+    model_name = "meta-llama/Llama-3.2-3B-Instruct"
+    # model_name = "mistralai/Mistral-7B-Instruct-v0.2"
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_auth_token=True)
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
@@ -140,7 +143,7 @@ def main():
 
     # CSVファイルとして保存
     df_scores = pd.DataFrame(outputs)
-    df_scores.to_csv('outputs/trait_scores_llama2_7B.csv', index=False)
+    df_scores.to_csv('outputs/trait_scores_llama3_3B.csv', index=False)
     return outputs
 
 
