@@ -80,7 +80,7 @@ def mts_scoring(essay, prompt, scoring_criteria, model, tokenizer, dataset: Lite
         inputs = tokenizer(chat, return_tensors="pt").to(model.device)
 
         with torch.no_grad():
-            output_tokens = model.generate(**inputs, generation_config=gen_config_1)
+            output_tokens = model.generate(**inputs, generation_config=gen_config_1, return_dict_in_generate=True, output_scores=True, pad_token_id=tokenizer.eos_token_id)
 
         response_1 = tokenizer.decode(output_tokens.sequences[0][inputs["input_ids"].shape[-1]:], skip_special_tokens=True)
 
@@ -99,7 +99,7 @@ def mts_scoring(essay, prompt, scoring_criteria, model, tokenizer, dataset: Lite
         inputs = tokenizer(chat, return_tensors="pt").to(model.device)
 
         with torch.no_grad():
-            output_tokens = model.generate(**inputs, generation_config=gen_config_2, return_dict_in_generate=True, output_scores=True)
+            output_tokens = model.generate(**inputs, generation_config=gen_config_2, return_dict_in_generate=True, output_scores=True, pad_token_id=tokenizer.eos_token_id)
 
         response_2 = tokenizer.decode(output_tokens.sequences[0][inputs["input_ids"].shape[-1]:], skip_special_tokens=True)
 
@@ -131,9 +131,9 @@ def main(dataset: Literal["ASAP", "TOEFL11"], model_name: str):
             all_scoring_criteria = json.load(f)
     elif dataset == "TOEFL11":
         # Load dataset
-        df = load_toefl_dataset('datasets/TOEFL', stratify=True)
+        df = load_toefl_dataset('datasets/TOEFL11')
         # Load scoring criteria
-        with open('outputs/multi-trait-decomposition/toefl_rubrics_gpt-4o.json') as f:
+        with open('outputs/multi-trait-decomposition/toefl_rubrics_gpr-4o.json') as f:
             all_scoring_criteria = json.load(f)
 
     # Initialize model and tokenizer
@@ -147,12 +147,13 @@ def main(dataset: Literal["ASAP", "TOEFL11"], model_name: str):
 
     # Process essays
     outputs = []
+    df = df.select(['essay_set', 'essay_id', 'essay', 'score'])
     for essay_set, essay_id, essay, score in tqdm(df.iter_rows(), total=len(df)):
         if dataset == "ASAP":
             with open(f"llm_prompts/ASAP/info/prompt{essay_set}.md", "r") as f:
                 prompt = f.read()
         elif dataset == "TOEFL11":
-            with open(f"llm_prompts/TOEFL/info/prompt{essay_set}.md", "r") as f:
+            with open(f"llm_prompts/TOEFL11/info/prompt{essay_set}.md", "r") as f:
                 prompt = f.read()
         scoring_criteria = all_scoring_criteria[f'prompt{essay_set}']['dimensions']
         res1, res2, trait_scores = mts_scoring(essay, prompt, scoring_criteria, model, tokenizer, dataset)
@@ -169,8 +170,8 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="Run MTS scoring with specified model and dataset.")
-    parser.add_argument("--model", type=str, default="meta-llama/Llama-3.2-3B-Instruct", help="Model name to use.")
+    parser.add_argument("--model_name", type=str, default="meta-llama/Llama-3.2-3B-Instruct", help="Model name to use.")
     parser.add_argument("--dataset", type=str, default="ASAP", help="Dataset to use (ASAP or TOEFL11).")
     args = parser.parse_args()
 
-    main(args.dataset, args.model)
+    main(args.dataset, args.model_name)

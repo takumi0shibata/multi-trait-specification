@@ -3,6 +3,32 @@ import re
 import polars as pl
 from sklearn.model_selection import train_test_split
 
+def get_score_range(dataset_name, prompt_id):
+    """ASAPデータセットのスコア範囲を取得."""
+    score_ranges = {
+        "ASAP": {
+            1: (2, 12),
+            2: (1, 6),
+            3: (0, 3),
+            4: (0, 3),
+            5: (0, 4),
+            6: (0, 4),
+            7: (0, 30),
+            8: (0, 60),
+        },
+        "TOEFL11": {
+            1: (0, 2),
+            2: (0, 2),
+            3: (0, 2),
+            4: (0, 2),
+            5: (0, 2),
+            6: (0, 2),
+            7: (0, 2),
+            8: (0, 2),
+        }
+    }
+    return score_ranges[dataset_name][prompt_id]
+
 def _extract_numbers(column):
     return column.map_elements(lambda x: re.findall(r'\d+', x)[0], return_dtype=pl.String)
 
