@@ -85,11 +85,12 @@ def vanilla_scoring(essay, prompt, model, tokenizer, prompt_id, dataset: Literal
         # スコアの抽出
         try:
             # スコアを抽出するための正規表現パターン
-            score_pattern = r'low|medium|high'
+            score_pattern = r'(?i)(low|medium|high)'
             match = re.search(score_pattern, response)
             if match:
                 score = match.group()
             else:
+                score = None
                 raise ValueError("スコアが見つかりませんでした")
         except (ValueError, IndexError) as e:
             print(f"Error extracting score: {e}")
